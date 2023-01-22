@@ -1,0 +1,390 @@
+Pes Global 2021 v5.3
+1-Al Nassr takımı eklendi (Diğer Asya Takımları)
+2-Bazı forma hataları düzeltildi
+
+Not: Yeni kariyer açmak zorunlu. Yoksa kariyerlerde hata alacaksınız.
+____________________________________________________________________________________________________________
+
+Pes Global 2021 v5.2
+1-Sahaya giriş müzikleri düzeltildi
+2-Dünya Kupası 2022 modu eklendi
+3-2022-2023 forması olmayan takım formaları güncellendi
+4-Bazı takımlara 3'üncü forma eklendi
+5-Formalardaki hatalar düzeltildi
+6-Diğer hatalar düzeltildi
+7-500+ yeni miniface eklendi
+8-Oyuncuların form dereceleri +2 yükseltildi
+9-Hatalı içerikler kaldırıldı
+10-ML My Team eklendi (sider menüsü ile oyun içi seçilebiliyor).
+
+Not: Yeni kariyer açmak zorunlu. Yoksa kariyerlerde hata alacaksınız.
+____________________________________________________________________________________________________________
+
+PES Global 2021 v5.1
+1-Güncel transferler, diziliş ve forma numaraları
+2-Güncel oyuncu güçleri (efootball 23 den aktarıldı)
+3-Güncel oyuncu piyasa değerleri (tüm takımlar)
+4-Güncel oyuncu kontrat tarihleri tüm takımlar (Türk ligleri için kiralıklar)
+5-Tüm takımların 2022-2023 formaları
+6-Asya Şampiyonlar Ligi 2022 eklendi
+7-Ana Lig teknik direktör yüzleri güncellendi ve yeni eklendi
+8-Güncel krampon, top ve kaleci eldivenleri eklendi
+9-Bazı skorbordlara ve diğer ufak tefek şeylere düzeltmeler yapıldı
+10-4K uyumlu fontlar eklendi ve 2 yeni Messi menüsü eklendi
+11-Yedek kulübesindeki oyuncu sayısı 7 den 12 ye çıkartıldı
+12-Birçok miniface eklendi ve güncellendi
+13-Hatalar ve eksiklikler giderildi
+
+NOT: Aynı zamanda Pes Global v5.0 Fix'i içinde barındırmaktadır.
+_____________________________________________________________________________________________________________
+
+PES Global 2021 v5.0
+1-Yeni oyuncular efootball 2022 den aktarıldı.
+2-Bazı sahte oyuncu kimlikleri gerçekleriyle düzeltildi.
+3-Japonya-Amerika ligi tamamen efootball 2022 den çevrilip aktarıldı.
+4-Rusya ligi yerine Azeri ligi yapıldı (10 takım 22-23 sezonu)
+5-Liglerin yeni sezon düşen-çıkan takımları yapıldı. (kadroları sonra eklenecektir)
+6-Transferlerin %90'ı yapıldı. (forma numaraları şimdilik girilmedi)
+7-Pes Global v5.1 ile tüm kadrolar, transferler ve forma noları düzeltilecek.
+8-Bazı takımlara yeni sezon formaları.
+9-Yedek oyuncuların saha kenarında ısınırken giydikleri yelekleri liglere göre otomatik değişecek.
+10-Çift oyuncu ve diğer veritabanı hataları tespit edilip düzeltildi.
+11-Bacak dövmelerinde hata düzeltildi
+12-Kariyerlerde milli takımlardan teklif gelememe sorunu çözüldü.
+13-Bazı modlar güncellendi ve yeni modlar eklendi. (gereksiz modlar kaldırıldı)
+14-Kareografi modu eklendi..
+15-Oyuna Azeri 'Ə'-'ə' karakteri eklendi.
+16-Bazı skorbordan güncellendi.
+17-Tüm skorbordlara Türk TV kanal logoları eklendi.
+18-Bazı reklam panoları güncellendi.
+19-Bazı liglerin menüleri güncellendi. (kariyerlerde gözüken)
+20-Bazı hakem formaları güncellendi.
+21-Tüm takımların teknik direktörleri güncellendi.
+22-Değişen takım, lig ve kol logoları güncellendi.
+23-Ana menü güncellenip yenilendi.
+24-Türk takımları için gol ve sahaya giriş müzikleri ses seviyeleri düzenlendi.
+25-Bazı krampon ve toplar güncellendi.
+
+NOT: Yeni sezon için geçiş (altyapı) güncellemesi olacaktır.
+Bazı içerikler sezon başında olduğumuz için belli değil, sonra yani v5.1 ile güncellenecektir.
+Ayrıca v5.1 çıktığında kariyerlerinize yeniden başlamanız gerekecektir.
+_____________________________________________________________________________________________________________
+
+PES Global 2021 v4.3
+1-Yama son güncellemeye entegre edilip hatalar düzeltildi. (çökme ve maça girmeme hatası düzeltildi)
+2-Kariyerler için başlangıç (sözleşme hataları için) yılı 2021 yapıldı. (PFG Mağaza Diğer bölümü inceleyin)
+_____________________________________________________________________________________________________________
+
+PES Global 2021 v4.2
+1-Kariyer modlarında 4 klasik oyuncu çıkıyor. Bunlar silindi.
+2-Launher açılırken bazen hata vermesi düzeltildi.
+3-Silinmeyen kurulum dosyaları sildirecek.
+4-Bazı skor tabelalarında TV logoları güncellendi.
+5-50 oyuncunun gözükmeyen kramponları düzeltildi.
+6-Spiker isimlerinin gözükmeme sorunu düzeltildi.
+7-Korner bayraklarında hata düzeltildi.
+8-nosteam (cpy) modu eklendi. (şuan test aşamasında)
+9-Online mod kaldırıldı.
+10-Gol ve giriş müzikleri hataları düzeltildi.
+Not:Aynı zamanda v4.1 Fix'i içermektedir.
+
+Not: Kariyerlerdeki gerçekçilik açısından v4.2 ile yeni kariyer açmanızı tavsiye ediyoruz. 
+Ayrıca hata alma riskiniz azalacaktır. Eski kariyere devam edersiz oyundan atlamalar olabilir.
+_____________________________________________________________________________________________________________
+
+PES Global 2021 v4.1 - Kurulum Videosu: 
+1-Süper Lig ve TFF 1. Lig'in 10 Nisan 2022 piyasa değerleri ve sözleşme tarihleri
+2-Süper Lig ve TFF 1. Lig'in kiralık oyuncuları (takıma otomatik dönecekler)
+3-Güncel transferler (serbest kalan oyuncular dahil)
+4-Oyuncu eldivenleri ve çoraplarındaki çakışma düzeltildi. (mod seçici)
+5-Yeni toplar, kramponlar, kaleci eldivenler ve skorbordlar eklendi.
+6-Yeni modlar eklendi (21 mod)
+7-Yamaya özel menü yapıldı (varsayılan menü)
+8-Immersion modunun silinme sorunu düzeltildi
+9-Bazı formalarda güncelleme yapıldı
+10-Süper Lig ve TFF 1. Lig için tüm oyunculara miniface eklendi.
+11-Oyuncuların yanlış ten rengi ve default face hataları düzeltildi.
+12-Global 1000+ oyuncunun piyasa değerleri güncellendi.
+13-Brezilya ligindeki sahte oyuncu isimleri düzeltildi.
+14-Veritabanında bazı hatalar düzeltildi.
+15-Lig, kupa ve sahaya giriş animasyonları eklendi ve güncellendi.
+16-Gerçekçi kale ağları seçmeli şekilde eklendi.
+17-Gerçekçi kamera açısı eklendi. (Oyun içinden Canlı Yayın kamerasını seçmelisiniz)
+18-Gol müziklerinin sesi kısılarak, spiker ve diğer sesleri bastırması engellendi.
+19-Gol müzikleri kaldırma seçeneği tüm takımlara entegre edildi.
+20-Tünel çıkış müzikleri kaldırma seçeneği tüm takımlara entegre edildi.
+_____________________________________________________________________________________________________________
+
+PES Global 2021 v4.0 - Kurulum Videosu: 
+1-Tüm Avrupa Liglerinin 21/22 formaları eklendi.
+2-Kol bantları (badge) güncellendi.
+3-Transferlerin %98'i yapıldı. (4 Nisan)
+4-Tüm liglerin 21/22 sezon takımları eklendi. (Çin hariç)
+5-Oyuncular pes mobile'den alındı. (31.03.2022)
+6-MP3 ile müzik listesi oluşturucu eklendi.
+7-MLS için bazı takımlara 2022 formaları eklendi.
+8-Çift oyuncular silindi.
+9-Immersion Mod seçmeli olarak eklendi.
+8-Veri tabanındaki hatalar düzeltildi.
+9-Eski kariyerlerinize devam ederseniz hata alırsınız !!!
+_____________________________________________________________________________________________________________
+
+Pes Global v3.9.4
+1-Araçlar - ID'ler'den Türk Stadyum Kodları tuş hatası düzeltildi.
+(Stadyum Paket v2.0 daki stadyumları oyunda aktif etmeniz için düzenleme yapıldı)
+2-Stadyumların aktif olmama sorunu düzeltildi.
+3-Final maçlarını siyah stadyum hatası düzeltildi.
+4-Konami stadyum resim hatası düzeltildi.
+5-Bazı lig logoları güncellendi.
+6-Bazı liglerin kol logoları güncellendi.
+_____________________________________________________________________________________________________________
+
+Pes Global v3.9.3
+1-Oyunun açılmama hatası düzeltildi.
+2-Giriş videosu gözükmeme hatası düzeltildi.
+3-Tezahürat paketini aktif etme sorunu düzeltildi.
+4-L. TCHAOUNA oyuncu gücü ve piyasa değeri düzeltildi.
+_____________________________________________________________________________________________________________
+
+PES Global v3.9.2
+1-Bazı kramponların gözükmeme hatası düzeltildi.
+2-TRT Spor logosu güncellendi.
+3-Ahmet Çalık klasik oyunculara eklendi.
+4-Yeni teknik direktör kıyafeti eklendi
+5-Bazı takımların giriş ve gol müzikleri düzeltildi.
+6-Korner bayraklarındaki hatalar düzeltildi.
+7-Oyuna genç oyuncular eklendi.
+8-Bazı hakem formalarını değiştirildi.
+9-Oyun girişine özel video eklendi.
+10-Forma radar renkleri düzeltildi.
+11-Yeni teknik direktörler eklendi.
+12-Saha kenarındaki görevli kıyafetleri eklendi.
+13-Tüm veritabanı dosyaları daha güvenli şekilde gizlenip şifrelendi.
+14-Fernerbahçe yıldızsız logosu eklendi.
+15-Reklam panoları güncellendi.
+16-Gol müzikleri seçmeli hale getirildi.
+17-Tüm stadyumlar güncellendi (stadyum paketi ayrı indirilebilir)
+18-Tüm stadyumlar için kar modu düzeltildi (stadyum paketi)
+19-Özel isim seslendirme çalışmama hatası giderildi. (ücretli içerik) 
+20-Taraftar paketi için her stadyuma özel giriş cümlesi eklendi. (ücretli içerik) 
+_____________________________________________________________________________________________________________
+
+PES Global v3.9.1
+1-Portekiz Ligi forma hataları düzeltildi
+2-Yeni teknik direktör eklendi
+3-Kriptolama daha güvenli hale getirildi
+4-Launcher güncellemek için Updater programı eklendi
+5-Türkçe Spikerde susma sorunu çözüldü
+_____________________________________________________________________________________________________________
+
+PES Global v3.9
+1-Çift oyuncular tespit edilip silindi
+2-ML My Team güncellendi (lanucher ayrıca indirilebilir)
+3-Yeni sezon kramponlar-eldivenler güncellendi
+4-Bazı minifaceler güncellendi
+5-Avrupa liglerinin tamamının eksik oyuncular eklendi
+(Güncel kadro ve forma noları transfermarkt'ten alınmıştır)
+6-Oyuna 1000+ den fazla yeni oyuncu eklendi
+7-Bazı oyuncuların kramponlarını gözükmeme hatası çözüldü
+8-Süper Lig maça çıkıştaki orta sahadaki bayrak güncellendi
+9-Türk takımlarının hepsine gol müziği eklendi.
+10-Türk takımlarının hepsine sahaya giriş müziği eklendi
+11-eFootball 2022 skorbordu ve yazı fontu eklendi
+12-VAR odası seçmeli eklendi (sadece maç girişlerinde gözüküyor)
+13-10 tane çorap modeli eklendi (mod seçici)
+14-6 tane menü modu eklendi
+15-UEFA edit arkaplanı eklendi
+16-Süper Lig ve TFF 1. Lig'e lig kol logoları eklendi
+17-5 adet antrenör eklendi: S. Agüero, S. Kuntz v.b.
+18-Özel PFG menüsü: Yeni sesli giriş menüsü eklendi
+19-Tarafatar paketi modu eklendi (ücretli içerik)
+20-Özel isim seslendirmesi aktif hale geldi (ücretli içerik)
+21-Avrupa liglerine 2021-2022 sezon formaları eklendi (5 Lig)
+22-Bazı takımların Avrupa ve Kupa formalarına özel fontları eklendi
+
+(Özel fontlar turnuvalara göre eklendi, otomatik değişiyor)
+Takımlar; Galatasaray, Real Madrid, Barcelona, Arsenal, Aston Villa, 
+Chelsea, Leed United, Liverpool, M. City,  M. United, Tottenham, 
+West Ham, Monaco, Marseille, PSG, Lyonnais ve Nice
+_____________________________________________________________________________________________________________
+
+PES Global v3.8
+1-Çift oyuncular tespit edilip silindi
+2-ML My Team eklendi (lanucher dan seçmeli)
+3-Yeni sezon kramponlar-eldivenler güncellendi
+4-Bazı minifaceler güncellendi
+5-Bazı yanlış transferler düzeltildi
+6-Trabzonspor avrupa formaları düzeltildi
+7-Süper Lig güncel forma ve sponsorları eklendi
+8-TFF 1. Lig güncel forma ve sponsorları eklendi
+9-Bazı oyuncuların kramponlarını gözükmeme hatası çözüldü
+10-eFootball 2022 müzik paketi eklendi
+11-Aynı zamanda v3.7 Fix sürümünü de içermektedir.
+_____________________________________________________________________________________________________________
+
+PES Global v3.7
+1-Yamadaki atma (takılma) hatası düzeltildi
+2-Kariyerlerdeki oyuncuların sezon başı serbest kalma sorunu çözüldü
+3-Süper Lig'in yeni sezon skorbordu eklendi
+4-UEFA skorbordlarına EXXEN TV logosu eklendi
+5-Süper Lig ve TFF 1. Lig'in oyuncu güçleri güncellendi
+6-Süper Lig ve TFF 1. Lig'in güncel piyasa değerleri ayarlandı
+7-Süper Lig ve TFF 1. Lig'in oyuncu ten renkleri düzeltildi
+8-Modlardaki önizleme resimleri eklendi
+9-Gol müzikleri sorunu çözüldü
+10-Korner bayrak hataları düzeltildi
+11-Bir kaç transfer hatası düzeltildi
+12-West Ham - West Bromwich takas edildi
+13-Beşiktaş'taki yanlış piyasa değerleri düzeltildi
+14-Fenerbahçe kiralık sözleşmeleri düzeltildi
+15-Sound Server hatalı olduğu için kaldırıldı
+16-Soyunma Odası Ekranı modu hatalı olduğu için kaldırıldı
+17-Vitor Pereira ve Yılmaz Vural teknik direktörlere eklendi
+18-Bazı minifaceler güncellendi
+19-Program (launcher) ve spiker güncelleme almama (kurmama) hatası düzeltildi
+(bu hatanın çözümü için discorddan duyuruya bakın)
+_____________________________________________________________________________________________________________
+
+PES Global v3.6
+1-Avrupa liglerinin tamamının güncel transferleri (22 lig).
+Diğer liglerin ve takımların transferleri sonra gelecektir (transfer dönemi kapandığında).
+2-Çoğu ligin düşen çıkan takımları ayarlandı (kalan ligler sonra ayarlanacak).
+3-Türk takımlarının çoğuna 2021-2022 formaları eklendi.
+4-Yeni menü modları (mod seçici).
+5-Yeni ülke logoları  (mod seçici).
+6-Kirlilik modu efektleri geliştirildi.
+7-TFF 1. Lige yeni çıkan takımların stadyumları eklendi.
+8-Eksik birçok miniface güncellendi.
+9-Tüm takım turnuvalara korner bayrağı eklendi (seçmeli şekilde).
+10-Müzik paketlerini aktif/pasif etme seçeneği (müzik paketi kurulu olması lazım).
+11-Gerçekçi grafik (GFX) modu eklendi.
+12-Yeni sezon toplar eklendi.
+13-Yeni sezon kramponlar eklendi.
+14-Yeni sezon skorbordlar eklendi.
+15-Ana lig kahve kupaları eklendi (mod seçici).
+16-Ana lig laptop modelleri eklendi (mod seçici).
+17-Sound server eklendi (sider).
+18-Locker room eklendi (sider).
+19-Tüm Türk stadyumlarına karlı mod eklendi (karlı-yağmurlu modlar ayrı şekildi)
+20-Bazı Türk stadyumlarına güncelleme yapıldı
+21-Samsunspor stadında koltuk üzerindeki SAMSUNSPOR yazısı eklendi.
+22-Ümraniyespor stadında reklam panoları kaldırıldı.
+23-Balıkesirspor stadında çevre zemin düzenlendi.
+24-Giresunspor stadyumu sıfırdan yeniden çizildi.
+25-Eyüpspor stadyumu eklendi.
+26-Kocaelispor stadyumu eklendi.
+_____________________________________________________________________________________________________________
+
+PES Global v3.5
+1-DLC 7 uyumluğu geldi.
+2-DLC 7 ile bozulan yama düzeltildi.
+3-DLC 7 ile yama online uyumlu hale getirildi. 
+_____________________________________________________________________________________________________________
+
+PES Global v3.4
+1-DLC 6 uyumluğu geldi.
+2-DLC 6 ile bozulan yama düzeltildi.
+3-DLC 6 ile yama online uyumlu hale getirildi. 
+_____________________________________________________________________________________________________________
+
+PES Global v3.3
+1-Miniface'i olmayan oyunculara miniface eklendi.
+2-Kadro düzenlemeleri yapıldı.
+3-Sahte kramponlar kaldırıldı.
+4-Sahte kaleci eldivenleri kaldırıldı.
+5-Bazı hatalar düzeltildi.
+_____________________________________________________________________________________________________________
+
+PES Global v3.2
+1-Launcher hataları düzeltildi.
+2-Oynanış modundaki hata düzeltildi.
+3-Online maçtan atma sorunu çözüldü.
+4-MyClub maçtan atma sorunu çözüldü
+5-Yanlış 2 futbolcunun milliyeti düzeltildi.
+6-İstiklal Marşı kaldırıldı. (oyuncular hazır olda durmadıkları için)
+7-Türkiye liglerinde tünelde ki saçma giriş müziği kaldırıldı.
+8-Trabzonspor stadyumu yeniden modellendi.
+9-Beşiktaş koltuk kaplamaları düzeltildi.
+10-Ziraat ve TFF Süper Kupa skorbord uzatma dakika hatası düzeltildi.
+11-3 UEFA turnuvasının tv logosu güncellendi.
+_____________________________________________________________________________________________________________
+
+PES Global v3.1
+1-Efsane Ol başlatma hatası düzeltildi.
+2-Veri tabanında bazı hataları düzetildi.
+3-Kadro dışı bırakılmalar ve sözleşme fesihleri güncellendi.
+4-Çift oyuncular tespit edilip kopyaları silindi.
+5-Launcher basit ve kullanışlı hale getirildi.
+6-Tüm transferler 22/04/2021 canlı güncellemeden alındı.
+7-Tüm oyuncuların piyasa değeri güncelledi.
+8-Tüm oyuncuların sözleşmeleri güncellendi.
+9-Tüm oyuncu güçleri DLC 5 den aktarıldı.
+10-Japon liginin tüm verileri PES 2021 MOBILE dan aktarıldı.
+11-Bundesliga oyuncuları güçleri yeniden ayarlandı.
+12-Bundesliga piyasa değerleri ve sözleşmeleri girildi.
+13-Eksik bazı transferler yapıldı.
+14-Bazı oyuncu güçleri düzenlendi.
+15-Online mod için forma hatası düzeltildi.
+16-Online mod için lisans yaması entegre edildi.
+17-Süper Lig ve TFF 1. Lig için forma, font, sponsor güncelledi.
+18-Süper Lig ve TFF 1. Lig için kaptanlık bantları düzeltildi.
+19-Süper Lig ve TFF 1. Lig için kol bantlarının yerleri düzeltildi.
+20-Ana Ligde stadyum koltuklarındaki hata ve stadyum isimleri düzeltildi.
+21-Stadyumlarda kale ağları değiştirildi.
+22-Stadyumlarda çevre düzenlemeleri yapıldı.
+23-Gol müzikleri seçenekli hale getirildi.
+24-İstiklal Marşı seçmeli olarak eklendi.
+25-Gerçekçi Işık modu eklendi.
+26-Top işareti kaldırıcı eklendi.
+27-Oyuncular için kış eldivenleri eklendi.
+28-Yeni hakem düdük sesi eklendi.
+29-Bazı teknik direktör yüzleri düzeltildi.
+30-Türkiye Kupası ve TFF Süper Kupa için yeni beta skorbord eklendi.
+31-Oynanış modu eklendi (launcher'dan seçmeli mod)
+32-Edit dosyaları bozulunca otomatik düzelten sistem yapıldı. (launcher)
+33-Immersion mod sorun çıkarttığı için devre dışı bırakıldı.
+34-No Regens mod sorun çıkarttığı için devre dışı bırakıldı.
+_____________________________________________________________________________________________________________
+
+PES Global v3.0
+1-DLC 5 uyumluğu geldi.
+2-DLC 5 ile bozulan yama düzeltildi.
+3-DLC 5 ile yama online uyumlu hale getirildi. 
+4-22.04.2021 tarihinde gelen son canlı güncelleme (latest live update) verileri entegre edilmiştir.
+5-Oyuncu genel dereceleri (güçleri) DLC 5'den alınmıştır.
+6-Tüm lig takımları ve milli takımlar lisanslandı.
+7-Tüm müsabakalar (kupalar, turnuvalar, şampiyonalar) lisanslandı.
+8-Eklenen Ligler: TFF 1. Lig (Türkiye 2. Ligi), Bundesliga (Almanya Ligi), J League (20 takım), MLS (20+7 takım).
+9-Süper Lig 20 takım, TFF 1. Lig 20 takım olarak Ligue 1 ve Ligue 2 ile takas edilerek eklendi. (seçmeli mod)
+10-Diğer Güney Amerika Takımları: Toplam 24 takım
+11-Diğer Avrupa Takımları: Toplam 32 takım
+12-Diğer Afrika Takımları: TP Mazembe.
+13-Yeni Milli Takımlar: Toplam 25 takım
+14-Yeni Klasik Takımlar Toplam 8 takım
+15-Tüm milli takım oyuncularına gerçek ID atandı.
+16-Tüm milli takım marşları orijinal olarak eklendi.
+17-560 yeni ana lig teknik direktörü eklendi.
+18-Transferler, kiralık sözleşmeleri, piyasa değerleri, oyuncu bilgileri ve takım verilerinin tamamı Transfermarkt verilerine göre güncellendi.
+19-5 Oyuncu değişiklik sayısı eklendi. (seçmeli mod)
+20-Ana lig grafik modları eklendi. (seçmeli mod)
+21-Ana menü grafik modları eklendi. (seçmeli mod)
+22-Online Mode (Takımlar, ligler, logolar ve oyuncu isimleri orijinal oyunu bozmayacak şekilde lisanslandı, sorunsuz myClub oynanabilir.)
+23-Süper Lig ve TFF 1. Lig formaları %100 lisanslı olarak eklendi. Hazırda olan bazı formalar tarafımızca yeniden düzeltildi.
+24-Sleeve badge server eklendi. Tüm turnuva ve liglerinin tüm kol rozetleri otomatik değişecek şekilde formalara entegre edildi. Ayrıca UCL, UEL, USC, FIFA CWC, ICC gibi müsabakaların kol rozetleri ve formaları, otomatik değişecek şekilde entegre edildi.
+25-Referee kit server eklendi.
+26-Ball server eklendi.
+27-100 farklı krampon ve gizli krampon içeriyor.
+28-30 farklı kaleci eldiveni ve gizli eldiven içeriyor.
+29-Tüm lisanssız takımlar ve müsabakalar, lisanslandı. Tüm logolar yüksek kaliteli 26 bit olarak eklendi.
+30-Butonlar ve gamepad PlayStation 4 olarak değiştirildi.
+31-Europe Best Player, South America Best Player, Asia Best Player, World Best Player gibi ödüllerin arka plan resimleri eklendi.
+32-Modeli olmayan kupalara kupa modeli eklendi.
+33-Scoreboard olarak piyasada bulabileceğiniz en geniş scoreboard paketi eklendi. Yaklaşık 50 müsabakanın 200'e yakın scoreboardı bulunuyor.
+34-Tüm scoreboardlar Yerel Maç'ta çalışır hale getirildi. Bazı scoreboardların TV logosu olmayan halleri de mevcut.
+35-Değişiklik ve uzatma sürelerini gösteren ışıklı tabelalar eklendi.
+36-Aksesuar, grafik ve detay mod eklendi.
+37-Özel 2 adet font eklendi.
+38-Taraftarsız mod seçmeli olarak mevcut.
+39-Seyirci sesi kaldırma seçmeli olarak mevcut.
+40-Intro ya da giriş videoları eklendi.
+41-Tüm Türk takımlarının gerçek stadyumları eklendi.
