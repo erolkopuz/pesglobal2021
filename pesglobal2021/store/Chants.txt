@@ -1,0 +1,12 @@
+PES Global Chant Server v5.0 (PES Global v5.0 + ile uyumlu)
+Çıkış Tarihi 14-11-2022 - 23:30
+
+Kurulum videosu; https://bit.ly/3OKoUBk
+
+PES Global Chantserver v5.0
+1-Tüm tezahüratlar aynı ses seviyesine çekildi
+2-Spikerin sesini bastırma hatası düzeltildi
+2-Tüm türk takımların tezahürat eklendi
+4-Diğer takımların çoğuna tezahürat eklendi
+5-Gereksiz tezahüratlar kaldırıldı
+6-Gaziantep takımındaki Altay tezahürat hatası düzelildi

@@ -1,0 +1,17 @@
+PES Global v5.2 ile uyumlu yeni spiker çıktı.
+
+Çıkış Tarihi 30.12.2022 - 22:00 Cuma
+
+Oyun içi spikerlerin yeri;
+Ayarlar > Sistem Ayarları > Dil Ayarları > Anlatım Dili
+
+Sonra eklenecek spikerler (indirmeniz durumunda bu 2 spiker tamamen susacaktır)
+Çağatay Kuş
+Oğuzhan Atay
+
+Spiker kurulum videosu; https://bit.ly/3vTXpwC
+Gol ve Stadyum Replik kurulum videosu; https://bit.ly/39tFpSe
+
+Gol ve Stadyum Replikleri
+Son resmi güncellemden sonra oyunda çökme yaşattığı için deaktif edilmiştir.
+Oyunucu Listesi: https://bit.ly/3xCdxp8

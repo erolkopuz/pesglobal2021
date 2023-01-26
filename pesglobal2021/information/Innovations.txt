@@ -1,0 +1,86 @@
+﻿
+PES Global 2021 v5.1. Launcher-Store-Updater Özellikleri
+1-Programların sürümleri değiştirildi.
+2-Hatalı kodlar düzeltildi.
+
+PES Global 2021 v5.0. Launcher-Store-Updater Özellikleri
+1-Programların sürümleri değiştirildi.
+2-PFG Mağaza şifre hatırlamama sorunu düzeltildi.
+3-Tasarım değişikliği yapıldı.
+4-Hatalı kodlar düzeltildi.
+
+PES Global 2021 v4.3. Launcher-Store-Updater Özellikleri
+1-Programların sürümleri değiştirildi.
+
+PES Global 2021 v4.2. Launcher-Store-Updater Özellikleri
+1-Mod Seçiciye sürükle ve bırak fonksiyonu eklendi.
+2-Sekmeler arası geçiş animasyonu kaldırıldı (hata oluşturuyordu)
+3-Online mod kaldırıldı.
+4-CPY mod eklendi. (şuan aktif değil)
+5-Programların sürümleri değiştirildi.
+
+PES Global 2021 v4.1. Launcher-Store-Updater Özellikleri
+1-Güncelleme indirme alanı, Store indirme alanı gibi yapıldı.
+2-VPN/DNS kullananırken indirmedeki hata düzeltildi.
+3-Menüdeki tikli içerikler mod seçiciye aktarıldı.
+4-Bazı hatalı kodlar düzeltildi.
+5-Updater 4.1 için hatalı kodlar düzeltildi.
+6-Store 4.1 için hatalı kodlar ve server bağlantısı düzeltildi.
+
+PES Global 2021 v4.0 Launcher-Store-Updater
+1-Sekmeler arası geçiş animasyonu eklendi
+2-Müzik paketi oluşturma alanı eklendi
+3-Saydam pencere dizaynı seçeneği eklendi
+4-Avatar sistemi eklendi
+5-Son Giriş bilgisi eklendi
+6-Bazı kodlama hataları giderildi
+7-Kayıt Günlüğü eklendi (hataları tespiti için)
+8-Bazı dil hataları giderildi
+9-Veritabanı bağlantısı hızlandırıldı
+10-Zip çıkartma sırasında oluşan buglar giderildi.
+11-İndirmelerde % kaç indirdiğinizi gösteren sayaç eklendi
+
+04.02.2022 - 22:00 (Fix 3 çıkış zamanı)
+PES Global 2021 v3.9.4.1 Launcher
+1-Bazı kodlar düzeltildi.
+2-Mağaza uygulamasında sistem dosya yolu bulunamadı hatası düzeltildi.
+3-Mod seçicideki çopap modellerinin oyunda gözükmeme sorunu çözüldü.
+4-Kriptolama daha güvenli hale getirildi
+(spiker çalışmıyorsa bu fixi indirmeniz gerekli)
+
+PES Global 2021 v3.9.4 Launcher
+1-PFG Mağaza yeniden tasarlandı (basit ve sade tasarım)
+2-Dillerdeki bozuk cümleler düzeltildi.
+3-Kodlarda oluşan bazı hatalar düzeltildi.
+
+PES Global 2021 v3.9.3 Launcher
+1-Kodlarda oluşan bazı hatalar düzeltildi.
+2-Kriptolama ve şifreleme daha düzgün çalışır hale getirildi.
+
+PES Global 2021 v3.9.2 Launcher
+
+1-PFG Mağaza'da nesneler düzenlendi
+2-Dillerdeki bozuk cümleler düzeltildi.
+3-Yüz Paketi bölümündeki kilitlenme sorunu düzeltildi.
+4-Grafiklerin kayma sorunu düzeltildi.
+5-.NET Freamworks uyumluluğu düzenlendi.
+6-Kriptolanmış veri artık daha hızlı oyuna entegre ediliyor.
+7-Kodlarda oluşan bazı hatalar düzeltildi.
+8-Launcher ana ekran geç gelme sorunu düzeltildi.
+9-Kripto ve güncelik daha iyi hale getirildi.
+
+PES Global 2021 v3.9.1 Launcher
+1-Launcher grafikleri değiştirildi.
+2-Launcher için yeni mavi simge (icon) eklendi.
+3-Yapımcılar bölümü eklendi (sağ tuş menüsünden).
+4-Tuş ve gezinti sesleri eklendi (seçmeli içerik)
+5-Araçlar & ID'ler kısmı düzenlendi.PFG Mağaza eklendi.
+6-Karanlık ve Normal olmak üzere tema seçeneği eklendi.
+7-Dil hataları düzeltildi.
+8-Azerbaycan dili kullanılmadığı için kaldırıldı.
+9-Editleri düzelt kısmındaki hata giderildi.
+10-Güvenlik koruması dahada geliştirildi 
+11-Kaçak kullanımı önlemek için kriptolama ve şifreleme sistemi yapıldı.
+12-Karmaşık kodlama mantığı azaltıldı.
+13-Windows 11 desteği geliştirildi (detaylı test edilmedi).
+14-Updater üzerinden Launcher otomatik güncelleme sistemine geçildi.
