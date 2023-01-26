@@ -1,0 +1,8 @@
+Taraftar paketi almış olduğunuz takım ya da takımlara göre solda listelenecektir. 
+İstediğiniz zaman anlık olarak indirebilirsiniz.
+
+Paket içeriği;
+Aldığınız takım ve oyunculara özel;
+Takıma özel stadyum giriş cümleleri, ve oyunculara özel seslendirme ve golü atan oyuncun adını söylemesi
+Örnek: Halil Dervişoğlu gol atınca; 'Halillllllllll Dervişoğluuuuuuunun golüüüüüüüüü' gibi oyuncuya
+özel gol replikleri çıkacaktır.
