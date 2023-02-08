@@ -1,3 +1,13 @@
+Pes Global 2021 v5.4
+1-Oyundan atma hatası çözüldü
+2-Bazı formalar güncelleme yapıldı
+3-Türk hakem formaları güncellendi
+4-A. Eyüp Türkaslan oyuncusu Efsanelere eklendi
+5-Al Nassr takımı silindi
+
+Not: Yeni kariyer açmak zorunlu. Yoksa kariyerlerde hata alacaksınız.
+____________________________________________________________________________________________________________
+
 Pes Global 2021 v5.3
 1-Al Nassr takımı eklendi (Diğer Asya Takımları)
 2-Bazı forma hataları düzeltildi

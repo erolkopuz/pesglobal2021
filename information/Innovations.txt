@@ -1,4 +1,17 @@
 ﻿
+PES Global 2021 v5.4. Launcher-Store-Updater Özellikleri
+1-Programların sürümleri değiştirildi.
+2-Hatalı kodlar düzeltildi.
+3-x64 sistemleri için tam uyumlu hale getirildi.
+4-Açılışta hata verme sorunu çözüldü.
+5-Discord oyun bağlantısı eklendi.
+
+PES Global 2021 v5.3. Launcher-Store-Updater Özellikleri
+1-Programların sürümleri değiştirildi.
+
+PES Global 2021 v5.2. Launcher-Store-Updater Özellikleri
+1-Programların sürümleri değiştirildi.
+
 PES Global 2021 v5.1. Launcher-Store-Updater Özellikleri
 1-Programların sürümleri değiştirildi.
 2-Hatalı kodlar düzeltildi.
