@@ -1,10 +1,16 @@
-PES Global Chant Server v5.0 (PES Global v5.0 + ile uyumlu)
-Çıkış Tarihi 14-11-2022 - 23:30
+PES Global Chant Server v5.0  ve üzeri sürümlerle uyumlu yeni spiker.
+Çıkış Tarihi 14-11-2022 - 23:30 Pazartesi
 
-Kurulum videosu; https://bit.ly/3OKoUBk
+İndirme Linki; https://ay.live/21teza
+Kurulum videosu; 
+Rar Şifresi; www.pesfifaglobal.com
+
+Kurulum
+1-gamefolder içindekileri pes 2021 ana klasörüne atın (dosya değiştirme onayı isterse verin)
+2-Launcher (arayüz üzerinden) Tezahürat Paketi kilidi açılmıştır. Aktif edebilirsiniz.
 
 PES Global Chantserver v5.0
-1-Tüm tezahüratlar aynı ses seviyesine çekildi
+1-Tüm tezahüratlar aynı ses seviyesine düzenlendi
 2-Spikerin sesini bastırma hatası düzeltildi
 2-Tüm türk takımların tezahürat eklendi
 4-Diğer takımların çoğuna tezahürat eklendi

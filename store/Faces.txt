@@ -1,5 +1,3 @@
-Güncel Yüz Paketi Güncellenme Tarihi: 06.01.2023 - 23:55 Cuma (Güncel Yüz Paketini sadece buradan indirebilirsiniz.)
-
 Pes Global Faceserver v6.0 + v6.1 (07.01.2023)
 1-10500+ yüz (yüzü olmayan oyunculara yüz eklendi)
 2-Bazı yüzler güncellendi
@@ -7,8 +5,18 @@ Pes Global Faceserver v6.0 + v6.1 (07.01.2023)
 5-1000+ oyuncuya kol dövmesi eklendi
 6-150+ oyuncuya bacak dövmesi eklendi
 
+İndirmek için: https://bit.ly/3BeT8Ic
+Kurulum Videosu : https://ay.live/vGf2K
+
 Faceserver v.6.0 üzerine v6.1 kurun. Önceki sürümleri kurup ya da kurmamış olmamanız farketmez.
 Güncel yüz paketini isteğe bağlı indirebilirsiniz. (Messi, Ronaldo v.b. gibi oyuncuların güncel yüzlerini içerir ve sürekli güncellenmekte.)
 
-İndirmek için: https://bit.ly/3BeT8Ic
-Kurulum Videosu : https://ay.live/vGf2K
+Güncel Yüz Paketi Güncellenme Tarihi: 06.01.2023 - 23:55 Cuma (Güncel Yüz Paketini sadece buradan indirebilirsiniz.)
+
+İndirme Linki; https://ay.live/21guny
+Kurulum videosu; 
+Rar Şifresi; www.pesfifaglobal.com
+
+Kurulum
+1-gamefolder içindekileri pes 2021 ana klasörüne atın (dosya değiştirme onayı isterse verin)
+2-Launcher (arayüz üzerinden) Güncel Yüz Paketi kilidi açılmıştır. Aktif edebilirsiniz.
