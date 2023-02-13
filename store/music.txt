@@ -1,4 +1,4 @@
-Pes Global Music Patch v1.0'ı aktif edebilmeniz için
+xPes Global Music Patch v1.0'ı aktif edebilmeniz için
 paketi websitesinden indirip kurmanız gerekli.
 Bu işlemden sonra kilitli aktif tuşu açılacaktır.
 (programı yeniden başlatmayı unurmayın)
