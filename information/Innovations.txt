@@ -1,5 +1,5 @@
 ﻿
-PES Global 2021 v5.4. Launcher-Store-Updater Özellikleri
+xPES Global 2021 v5.4. Launcher-Store-Updater Özellikleri
 1-Programların sürümleri değiştirildi.
 2-Hatalı kodlar düzeltildi.
 3-x64 sistemleri için tam uyumlu hale getirildi.

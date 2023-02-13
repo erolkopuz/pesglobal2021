@@ -1,3 +1,3 @@
-﻿Uyarı: Daha önceden eski sürümlere sahipseniz ya da hiç indirmemişseniz sadece v3.9.2 Re-Pack indirmeniz yeterlidir.
+﻿xUyarı: Daha önceden eski sürümlere sahipseniz ya da hiç indirmemişseniz sadece v3.9.2 Re-Pack indirmeniz yeterlidir.
 Çeşitli hatalar alanlar her şeyi silip tekrar oyunu steam üzerinden indirmesi gerekli (temiz oyun gerekli) sonrasında direkt re-pack kurmanız yeterli.
 Önceki sürüm ne olursa olsun temiz oyun kurulumu yapıp, v3.9.2'yi kurmanız lazım. Toplu hepsi bir arada pakettir.
