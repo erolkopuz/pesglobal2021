@@ -1,4 +1,4 @@
-xDüzgün çalışabilmesi için minumum PES Global 5.1 ya da daha üst sürümünü sahip olmanız gerekli.
+Düzgün çalışabilmesi için minumum PES Global 5.1 ya da daha üst sürümünü sahip olmanız gerekli.
 PES Global 5.1 sürümüne geçtiğiniz zaman tekrar indirip kurmanız gereklidir. Yoksa eski sürümdeki isimleri spiker okumayacaktır.
 
 Siparişi program üzerinden maille verebilirsiniz ya da discord üzerinden bize ulaşabilirsiniz.

@@ -1,4 +1,4 @@
-xMaster League Selector
+Master League Selector
 
 Oyun ana menüsünde boşluk tuşuna basıp 'Q' harfinin üzerindeki '1' tuşu ile Master League Selector bölümüne gelin ve ekrandaki kısayollara bakarak istediğinzi takımın grafiklerini aktif olarak ayarlayabilirsiniz. Sonra Ana Lig de kariyerine giriş yapıp sorunsuzca oynayabilirsiniz.
 

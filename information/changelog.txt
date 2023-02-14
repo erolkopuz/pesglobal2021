@@ -1,4 +1,4 @@
-xPes Global 2021 v5.4
+Pes Global 2021 v5.4
 1-Oyundan atma hatası çözüldü
 2-Bazı formalar güncelleme yapıldı
 3-Türk hakem formaları güncellendi

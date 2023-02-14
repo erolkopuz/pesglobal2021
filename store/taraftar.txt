@@ -1,4 +1,4 @@
-xTaraftar paketi almış olduğunuz takım ya da takımlara göre solda listelenecektir. 
+Taraftar paketi almış olduğunuz takım ya da takımlara göre solda listelenecektir. 
 İstediğiniz zaman anlık olarak indirebilirsiniz.
 
 Paket içeriği;
