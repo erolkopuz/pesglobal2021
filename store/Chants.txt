@@ -2,8 +2,8 @@ PES Global Chant Server v5.0  ve üzeri sürümlerle uyumlu yeni spiker.
 Çıkış Tarihi 14-11-2022 - 23:30 Pazartesi
 
 İndirme Linki; https://ay.live/21teza
-Kurulum videosu; 
-Rar Şifresi; www.pesfifaglobal.com
+Kurulum videosu; https://ay.live/chanew
+Rar Şifresi;www.pesfifaglobal.com
 
 Kurulum
 1-gamefolder içindekileri pes 2021 ana klasörüne atın (dosya değiştirme onayı isterse verin)

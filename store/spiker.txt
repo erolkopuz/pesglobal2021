@@ -1,10 +1,10 @@
-PES Global v5.2 ve üzeri sürümlerle uyumlu yeni spiker.
+PES Global v5.4 ve üzeri sürümlerle uyumlu yeni spiker.
 
-Çıkış Tarihi 30.12.2022 - 22:00 Cuma
+Çıkış Tarihi 17.01.2023 - 09:00 Cuma
 
 İndirme Linki; https://ay.live/21spik
-Kurulum videosu; 
-Rar Şifresi; www.pesfifaglobal.com
+Kurulum videosu; https://ay.live/spkern
+Rar Şifresi;www.pesfifaglobal.com
 
 Kurulum
 1-gamefolder içindekileri pes 2021 ana klasörüne atın (dosya değiştirme onayı isterse verin)
