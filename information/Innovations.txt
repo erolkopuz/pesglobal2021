@@ -1,6 +1,6 @@
 ﻿
-PES Global 2021 v5.4.0.1
-1-Güncel Yüz Paketi tuş (kilitlenme) hatası düzeltildi.
+PES Global 2021 v5.4.0.2
+1-Güncel Yüz Paketi tuş (kilitlenme-işaretlenmeme) hatası düzeltildi.
 
 PES Global 2021 v5.4.
 1-Programların sürümleri değiştirildi.
