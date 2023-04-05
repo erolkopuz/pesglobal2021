@@ -8,9 +8,11 @@ Kurulum aşaması
 6-Program kapatma uyarısı verince bunu onaylayın
 7-'updater' programına otomatik başlatılınca 'Güncelle/Tamir Et' dedikten sonra Launcher otomatik olarak açılacaktır
 (Launcher otomatik olarak açılmazsa oyun klasöründeki 'updater.exe'yi açın ve yukarıdaki 6. maddeyi tekrarlayın)
-8-Launcher açılınca 'EDIT'i save klasönü aktar' 
+8-Launcher açılınca 'EDIT'i save klasönü aktar' diyerek kurulumu bitirin
 
-İyi oyunlar
+Yeni kariyer açmanız gereklidir...
+
+İyi oyunlar...
 
 Yaparsa PFG yapar...
 www.pesfifaglobal.com
