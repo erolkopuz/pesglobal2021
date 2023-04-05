@@ -1,3 +1,23 @@
+Pes Global 2021 v6.0
+1-Devre arası transferleri yapıldı
+2-2000+ yeni oyuncu eklendi
+3-2000+ miniface eklendi
+4-Milli takımlara saçma oyuncu seçilme hatası düzeltildi
+5-Yeni piyasa değerleri ve sözleşme tarihleri girildi
+6-Bazı formalar güncellendi ve sponsor güncellemeleri yapıldı
+7-Yeni sezon kramponlar eklendi
+8-Yeni sezon toplar eklendi
+9-Takımlar için teknik direktör güncellemesi yapıldı
+10-Bazı takım logolarına güncelendi
+11-AFC Şampiyonlar Ligi için, Melbourne Victory yerine Al Nassr takımı eklendi
+12-Japonya, Birleşik Devletler, Brezilya 1-2, Arjantin, Şili, Kolombiya ve Çin ligleri için 2023 sezonu takımları eklendi
+13-Gaziantep, Hatayspor, Adanaspor ve Yeni Malatyaspor kadroları altyapı oyuncuları ile tamamlandı
+14-Bazı ligleri için devam eden transferler v6.1 ile tamamlanacaktır.
+15-Oyundan atma hataları düzeltildi.
+
+Not: Oyundan atma hataları çözüldü. Yeni kariyer açmak zorunlu. Yoksa kariyerlerde hata alacaksınız.
+____________________________________________________________________________________________________________
+
 Pes Global 2021 v5.4
 1-Oyundan atma hatası çözüldü
 2-Bazı formalar güncelleme yapıldı
