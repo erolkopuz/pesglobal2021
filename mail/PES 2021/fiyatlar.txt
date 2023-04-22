@@ -27,3 +27,4 @@ Kayıp Kod Bulma: Anakart, internet servisi değiştirme ya da kodunuzu kaybetti
 Parantez içi yurt dışı fiyatlarıdır. Türkiye dışından gönderilen ücretler tarafımıza 1-3 gün gecikmeyle gelmektedir.
 Sadece özel siparişlerin detayları için discord ya da üzerinden detayları bildirmeniz gerekli.
 (Özel takım içeriği, özel yüz için resimleriniz v.s. ayrıca parayı siparişi geçince atmanız gerekli)
+Bu sayfa online tabalıdır. Programa güncelleme vermeden içerik güncellemesi yapılabilir.
