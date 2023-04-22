@@ -1,10 +1,9 @@
-[PC] PES Global 2021 v5.0 (güncellemeler ve bazı içeriklerin kurulumu program üzerindendir)
-Parantez içi yurt dışı fiyatlarıdır.31 Ağustos 2022 itibariyle gerekli ücret verilmezse kodunuz geçersiz kalacaktır.
+[PS4] PES Global 2021 v6.0
+Aboneliğiniz bittiği zaman kodunuz geçersiz kalacaktır.
+Paketi sıfırdan satın almanız durumunda 350 ₺ (40 $-€) göndermeniz gerekli.
+Abonelik ücreti için paket ücretine ileve ücret göndermeniz gerekli.
 
-Not: Aylık abonelik sistemine geçildi. 2023-2024 sezonuna yakın abonelik sisteminin detayları açıklanıp,
-sisteme geçiş yapılacaktır.
-
-Paket ve Spiker: 350 ₺ (40 $-€)
+Paket ve Spiker: 400 ₺ (40 $-€) + Güncelleme 100 ₺ (10 $-€) ilave ücret.
 Kayıp Kod Bulma: 40 ₺ (5 $-€)
 Özel İsim Seslendirmesi: 80 ₺ (25 $-€)
 Özel Yüz: 120 ₺ (25 $-€)
@@ -12,8 +11,14 @@ Kayıp Kod Bulma: 40 ₺ (5 $-€)
 Özel Takım: 100 ₺ (20 $-€)
 Özel Stadyum: 300 ₺ (35 $-€)(şuan sipariş alınmıyor)
 
-[PS4] PES Global 2021 v6.1 | 2022-2023 sezon güncellemesi
-Paket ve Spiker: 400 ₺ (50 $-€) (önceki v4.x sürümünü alanlar 100 ₺ (10 $-€) ilave ücret göncerekler)
+Abonelik Sistemi (paket ücretine ilave ücrettir)
+1 aylık: 50 ₺ (10 $-€)
+3 aylık: 70 ₺ (15 $-€)
+6 aylık: 100 ₺ (20 $-€)
+12 aylık: 150 ₺ (25 $-€)
 
-Sadece özel siparişlerin detayları için discord üzerinden detayları bildirmeniz gerekli.
+Abonelik ücreti göndermeyenlerin kodu aktif olmayacaktır.
+Kayıp Kod Bulma: Anakart, internet servisi değiştirme ya da kodunuzu kaybettiğinizi durumunda geçerlidir.
+Parantez içi yurt dışı fiyatlarıdır. Türkiye dışından gönderilen ücretler tarafımıza 1-3 gün gecikmeyle gelmektedir.
+Sadece özel siparişlerin detayları için discord ya da üzerinden detayları bildirmeniz gerekli.
 (Özel takım içeriği, özel yüz için resimleriniz v.s. ayrıca parayı siparişi geçince atmanız gerekli)
