@@ -1,4 +1,4 @@
-Sipariş talebi oluşturmak için adımları takip edin; 
+4Sipariş talebi oluşturmak için adımları takip edin; 
 Aşağıdaki hesaplar dışında başka bir hesaba atmayın.
 
 1-Bankalardan birisine almak istediğiniz içeriklerin toplam fiyatını gönderin.
