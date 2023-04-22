@@ -1,4 +1,4 @@
-10Sipariş talebi oluşturmak için adımları takip edin; 
+Sipariş talebi oluşturmak için adımları takip edin; 
 Aşağıdaki hesaplar dışında başka bir hesaba atmayın.
 
 1-Bankalardan birisine almak istediğiniz içeriklerin toplam fiyatını gönderin.
@@ -13,5 +13,11 @@ TR16 0001 0027 1359 9897 4550 02 (EROL KOPUZ Ziraat Bankası)
 PAPARA:
 erolkopuz:180 167 81 30
 
-Başkasına ait banka hesabından göndermeniz durumunda kendi adınızı belirtmelisiniz.
-Özel yüz, dövme, takım gibi içeriklerin bilgilendirmesi için aşağıdaki mavi website linkine tıklayıp bize ulaşabilirsiniz.
+Ticari bir kuruluş değildir.
+Yapılan satışlardan 'Gelir İdaresi Başkanlığı'nın
+haberi vardır. %15 vergi kesintisi yapılmaktadır.
+İçerik üreticiliği adı altında faaliyet göstermekteyiz.
+
+Satışlarımız tamamen sanal olmaktadır.
+Elden satış yapılmamaktadır ve kesinlikle yasaktır.
+Her şey kanuna uygun biçimde yapılmaktadır.
