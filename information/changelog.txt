@@ -1,3 +1,21 @@
+Pes Global 2021 v6.1
+1-Overall düzeltmesi yapıldı
+2-Ana Lig varsayılan ve altyapı oyuncu yaşları düzeltildi
+3-Sözleşme, kiralık ve piyasa değeri hataları düzeltildi
+4-Transfer dönemi biten liglerin transferleri yapıldı ve transfer hataları düzeltildi
+5-Çift oyuncu ve diğer veritabanı hataları düzeltildi
+6-Bazı sahte oyuncular için isim düzeltmesi yapıldı
+7-Takımlar için teknik direktör düzeltmeleri yapıldı
+8-Deplasman gol kuralı kaldırıldı. Tur atlamak için toplam skora bakılacak. UEFA'nın yeni kuralı oyuna aktarıldı
+9-Forma lig kol logoları gerçeğe göre ayarlandı. Sol-sağ yani iki tarafa da ayrı kol logosu eklenebiliyor
+10-Lig ve takım logoları güncellendi
+11-Japonya, Amerika, Arjantin, Şili ve Brezilya 1-2 Ligleri için 2023 yeni sezon formaları eklendi
+12-Forma sponsor güncellemeleri yapıldı
+13-Could read block - no data  (internet  bağlantı) hatası düzeltildi (PC Sürümü)
+14-Türkiye ligleri için kısa çorap giyen futbolcular ayarlandı
+15-Bazı oyuncuların gerçek krampon ve kaleci eldivenleri ayarlandı
+____________________________________________________________________________________________________________
+
 Pes Global 2021 v6.0
 1-Devre arası transferleri yapıldı
 2-2000+ yeni oyuncu eklendi
@@ -12,7 +30,7 @@ Pes Global 2021 v6.0
 11-AFC Şampiyonlar Ligi için, Melbourne Victory yerine Al Nassr takımı eklendi
 12-Japonya, Birleşik Devletler, Brezilya 1-2, Arjantin, Şili, Kolombiya ve Çin ligleri için 2023 sezonu takımları eklendi
 13-Gaziantep, Hatayspor, Adanaspor ve Yeni Malatyaspor kadroları altyapı oyuncuları ile tamamlandı
-14-Bazı ligleri için devam eden transferler v6.1 ile tamamlanacaktır.
+14-Bazı ligleri için devam eden transferler v6.1 ile tamamlanacaktır
 15-Oyundan atma hataları düzeltildi.
 
 Not: Oyundan atma hataları çözüldü. Yeni kariyer açmak zorunlu. Yoksa kariyerlerde hata alacaksınız.

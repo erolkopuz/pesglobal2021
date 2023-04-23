@@ -1,14 +1,15 @@
 PES Global v5.4 ve üzeri sürümlerle uyumlu yeni spiker.
 
-Çıkış Tarihi 17.01.2023 - 09:00 Cuma
+Çıkış Tarihi 23.04.2023 - 17:00 Pazar
 
 İndirme Linki; https://ay.live/21spik
 Kurulum videosu; https://ay.live/spkern
-Rar Şifresi;www.pesfifaglobal.com
 
 Kurulum
-1-gamefolder içindekileri pes 2021 ana klasörüne atın (dosya değiştirme onayı isterse verin)
-2-Oyuna girin; Ayarlar > Sistem Ayarları > Dil Ayarları > Anlatım Dili
+1-PFG Mağaza'yı kapatın ve indirdiğiniz zip dosyasını oyun ana dizinine atıp
+2-PFG Mağaza dan Türkçe Spiker bölümündeki Şifre çöze tıklayın
+3-Aynı işlemi diğer spiker içinde yapın
+4-Oyuna girin; Ayarlar > Sistem Ayarları > Dil Ayarları > Anlatım Dili
 
 Sonra eklenecek spikerler (indirmeniz durumunda bu 2 spiker tamamen susacaktır)
 Çağatay Kuş
