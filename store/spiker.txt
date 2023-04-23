@@ -11,9 +11,10 @@ Kurulum
 3-Aynı işlemi diğer spiker içinde yapın
 4-Oyuna girin; Ayarlar > Sistem Ayarları > Dil Ayarları > Anlatım Dili
 
-Sonra eklenecek spikerler (indirmeniz durumunda bu 2 spiker tamamen susacaktır)
+Not: Oyun içi spiker seçmemeniz durmunda spiker maçta tamamen sessiz kalacaktır.
+
+Sonra eklenecek spikerler
 Çağatay Kuş
-Oğuzhan Atay
 
 Gol ve Stadyum Replikleri
 Son resmi güncellemden sonra oyunda çökme yaşattığı için deaktif edilmiştir.
