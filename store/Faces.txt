@@ -11,7 +11,7 @@ Rar Şifresi;www.pesfifaglobal.com
 
 Faceserver v.6.0 üzerine v6.3 kurun. (v6.3 aynı zamanda v6.1 ve v6.2'yi içermektedir) Önceki sürümleri kurup ya da kurmamış olmamanız farketmez.
 
-__________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________
 
 Güncel Yüz Paketi - Güncellenme Tarihi: 23.04.2023 Saat 10:30-Pazar
 
@@ -24,4 +24,4 @@ Rar Şifresi; www.artnerongames.com
 
 Kurulum
 1-gamefolder içindekileri pes 2021 ana klasörüne atın (dosya değiştirme onayı isterse verin)
-2-Launcher (arayüz üzerinden) Güncel Yüz Paketi kilidi açılmıştır. Aktif edebilirsiniz.
+2-Launcher (arayüz üzerinden) Güncel Yüz Pakati tikini kaldırıp tekrar işaretleyin.
