@@ -1,23 +1,23 @@
-Pes Global Faceserver v6.0 + (v6.1 + v6.2) Çıkış Tarihi: 13.04.2023 Saat 14:00-Perşembe
-1-10750+ yüz (yüzü olmayan oyunculara yüz eklendi)
-2-100+ yüz güncellendi
+Pes Global Faceserver v6.0 + (v6.1 + v6.2 + v6.3) Çıkış Tarihi: 12.04.2023 Saat 15:00-Pazar
+1-11000+ yüz (yüzü olmayan oyunculara yüz eklendi)
+2-100+ yüz güncellendi (renkli gözüken yüz ve dövmeler düzeltildi)
 4-200+ oyuncuya yüz ve boyun dövmesi eklendi
-5-1000+ oyuncuya kol dövmesi eklendi
-6-200+ oyuncuya bacak dövmesi eklendi
+5-1100+ oyuncuya kol dövmesi eklendi
+6-250+ oyuncuya bacak dövmesi eklendi
 
 İndirmek için: https://ay.live/gSyD4
 Kurulum Videosu : https://ay.live/vGf2K
 Rar Şifresi;www.pesfifaglobal.com
 
-Faceserver v.6.0 üzerine v6.2 kurun. (v6.2 aynı zamanda v6.1'i içermektedir) Önceki sürümleri kurup ya da kurmamış olmamanız farketmez.
+Faceserver v.6.0 üzerine v6.3 kurun. (v6.3 aynı zamanda v6.1 ve v6.2'yi içermektedir) Önceki sürümleri kurup ya da kurmamış olmamanız farketmez.
 Güncel yüz paketini isteğe bağlı indirebilirsiniz. (Messi, Ronaldo v.b. gibi oyuncuların güncel yüzlerini içerir ve sürekli güncellenmekte.)
 
-Güncel Yüz Paketi Güncellenme Tarihi: 13.04.2023 Saat 07:30-Perşembe
+Güncel Yüz Paketi Güncellenme Tarihi: 23.04.2023 Saat 10:30-Pazar
 Güncel Yüz Paketini sadece aşağıdaki buradan indirebilirsiniz.
 
 İndirme Linki; https://ay.live/21guny
 Kurulum videosu; https://ay.live/gnclfa
-Rar Şifresi; www.pesfifaglobal.com
+Rar Şifresi; www.artnerongames.com
 
 Kurulum
 1-gamefolder içindekileri pes 2021 ana klasörüne atın (dosya değiştirme onayı isterse verin)
