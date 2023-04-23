@@ -9,14 +9,16 @@ Pes Global Faceserver v6.0 + (v6.1 + v6.2 + v6.3) - Çıkış Tarihi: 12.04.2023
 Kurulum Videosu : https://ay.live/vGf2K
 Rar Şifresi;www.pesfifaglobal.com
 
-Faceserver v.6.0 üzerine v6.3 kurun. (v6.3 aynı zamanda v6.1 ve v6.2'yi içermektedir) Önceki sürümleri kurup ya da kurmamış olmamanız farketmez.
+Faceserver v.6.0 üzerine v6.3 kurun. (v6.3 aynı zamanda v6.1 ve v6.2'yi içermektedir)
+Önceki sürümleri kurup ya da kurmamış olmamanız farketmez.
 
 ___________________________________________________________________
 
 Güncel Yüz Paketi - Güncellenme Tarihi: 23.04.2023 Saat 10:30-Pazar
 
-Güncel yüz paketini isteğe bağlıdır. (Messi, Ronaldo ve Haaland v.b. oyuncuların güncel yüzlerini içeren, yüz paketinden bağımsız bir içeriktir)
+Güncel yüz paketini isteğe bağlıdır.
 Güncel Yüz Paketini sadece aşağıdaki linkten indirebilirsiniz.
+Messi, Ronaldo ve Haaland v.b. oyuncuların güncel yüzlerini içeren, yüz paketinden bağımsız bir içeriktir
 
 İndirme Linki; https://ay.live/21guny
 Kurulum videosu; https://ay.live/gnclfa
