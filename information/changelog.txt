@@ -10,7 +10,7 @@ Pes Global 2021 v6.1
 9-Forma lig kol logoları gerçeğe göre ayarlandı. Sol-sağ yani iki tarafa da ayrı kol logosu eklenebiliyor
 10-Lig ve takım logoları güncellendi
 11-Japonya, Amerika, Arjantin, Şili ve Brezilya 1-2 Ligleri için 2023 yeni sezon formaları eklendi
-12-Forma sponsor güncellemeleri yapıldı
+12-Tüm takımların formalarındaki uzun-kısa kol hatası düzeltildi
 13-Could read block - no data  (internet  bağlantı) hatası düzeltildi (PC Sürümü)
 14-Türkiye ligleri için kısa çorap giyen futbolcular ayarlandı
 15-Bazı oyuncuların gerçek krampon ve kaleci eldivenleri ayarlandı
