@@ -9,10 +9,10 @@ Kurulum aşaması
 7-'updater' programına otomatik başlatılınca 'Güncelle/Tamir Et' dedikten sonra Launcher otomatik olarak açılacaktır
 (Launcher otomatik olarak açılmazsa oyun klasöründeki 'updater.exe'yi açın ve 7. maddeyi tekrarlayın)
 8-Launcher açılınca 'EDIT'i save klasönü aktar' diyerek kurulumu bitirin
-9-Eski kariyerlerinize devam ederseniz oyundan atma hatası olacaktır
+9-Araçlar ID'ler > Stadyum Kodları açın içindeki kodları, stadium-map-teams içindeki kodları silip yapıştırın ve kaydedin
 10-Oyun sürümünüz lite ise en son bypass yapmayı unutmayın
 
-Yeni kariyer açmanız gereklidir...
+Yeni kariyer açmanız gereklidir... Yoksa oyundan atma yaşarsınız.
 
 İyi oyunlar...
 

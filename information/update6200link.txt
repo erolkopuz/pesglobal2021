@@ -1,4 +1,19 @@
-link buraya gelecek 6300.zip
+Kurulum aşaması
+
+1-Tüm modları ve tikleri kaldırın
+2-Bu pencereyi sakın kapatmayın
+3-Linkten 'pfg6100.zip' dosyasını indirin >>> xxxxxxxxxxxxxxxxxxxxxxxxxxx
+4-İndirdiğiniz 'pfg6100.zip' dosyasını oyunun ana klasörüne atın
+5-'Güncellemeyi Kur' tuşuna basarak paketin yüklenmesini bekeyin
+6-Program kapatma uyarısı verince bunu onaylayın
+7-'updater' programına otomatik başlatılınca 'Güncelle/Tamir Et' dedikten sonra Launcher otomatik olarak açılacaktır
+(Launcher otomatik olarak açılmazsa oyun klasöründeki 'updater.exe'yi açın ve 7. maddeyi tekrarlayın)
+8-Launcher açılınca 'EDIT'i save klasönü aktar' diyerek kurulumu bitirin
+9-Oyun sürümünüz lite ise en son bypass yapmayı unutmayın
+
+Yeni kariyer açmanız gereklidir... Yoksa oyundan atma yaşarsınız.
+
+İyi oyunlar...
 
 Yaparsa PFG yapar...
-www.pesfifaglobal.com
+www.artnerongames.com
