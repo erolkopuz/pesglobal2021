@@ -14,6 +14,7 @@ Pes Global 2021 v6.1
 13-Could read block - no data  (internet  bağlantı) hatası düzeltildi (PC Sürümü)
 14-Türkiye ligleri için kısa çorap giyen futbolcular ayarlandı
 15-Bazı oyuncuların gerçek krampon ve kaleci eldivenleri ayarlandı
+16-Şükrü Saraçoğlu stadyumunun yüklenmeme (oyunun donma) hatası çözüldü
 ____________________________________________________________________________________________________________
 
 Pes Global 2021 v6.0
