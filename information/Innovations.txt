@@ -1,4 +1,11 @@
 ﻿
+PES Global 2021 v6.1.0.0
+1-Programların sürümleri değiştirildi.
+2-İnternet bağlantı hatası düzeltildi.
+3-Veritabanı'nı aktar tuşu eklendi.
+4-DpFileList.bin'i aktar tuşu eklendi.
+5-HATA ÇÖZÜM tuşu düzeltildi.
+
 PES Global 2021 v6.0.0.0
 1-Programların sürümleri değiştirildi.
 
