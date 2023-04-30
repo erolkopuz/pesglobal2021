@@ -9,25 +9,23 @@ Tüm dosyaların şifreleri: www.pesfifaglobal.com
 İçeriklerin kurulum videoları: https://ay.live/zbl
 Sorun Çözüm Videoları: https://ay.live/OyNuu
 _______________________________________________________________________________________________________
-PES Global 2021 v5.3 Sürümü için güncelleme alamıyorsanız bunu yapın
-Fix ile launcherdaki hatalar düzeltildi (6.01.2023-10:30)
-
-İndirmek için; Updater.exe > Güncelle / Tamir Et tuşuna basın.
+PES Global 2021 Steam Sürümü
+Aşağıdaki hiçbir işlemi yapmanıza gerek yok paketin varsayılan hali Steam sürümüne göre gelmektedir.
 _______________________________________________________________________________________________________
 PES 2021 Lite sürümü
 Oyun orijinalse ya da cpy ise bunu kesinlikle yapmayın!
 PES 2021 versiyon 1.7.2.1 bypass.
 Her güncellemeden sonra bypass yapın.
-Not: Baypass'tan sonra eski kariyerinize devam etmeyin, yeni kariyer açmazsanız sözleşme hataları olacaktır.
 
-Bypass    : https://bit.ly/3yvHdnX - 12-04-2023 Çarşamba Saat 01:50 güncellenmiştir.
+Bypass : https://ay.live/p21bys
 _______________________________________________________________________________________________________
-PES 2021 cpy (no steam) sürümü - henüz test aşamasındadır...
-Oyun orijinal ya da Lite ise bunu kesinlikle yapmayın! Şuan test aşamasında olduğu için paylaşım yapılmadı
+PES 2021 cpy (no steam)
+Oyun orijinal ya da Lite ise bunu kesinlikle yapmayın! 
+Launcher'ın sol üstünde Korsan logosu bulunmaktadır. Crackli sürüm kullanıyorken Korsan resmi yoksa bize ulaşın.
+Aşağıdaki dosyaları indirip kurun. Her güncellemeden sonra Adım 2'yi tekrarlayın.
 
-Adım 1: DLC paketi  : https://bit.ly/391QJEM
-Adım 2: pes2021.exe : ...
-Adım 3: Ayar Dosyası: ...
+Adım 1: DLC paketi : https://ay.live/p21dlc
+Adım 2: Dosyalar   : https://ay.live/p21byy
 _______________________________________________________________________________________________________
 Duyuru:
-Gerekli duyulduğu taktirde buradan size sözlü uyarı yapılabilecek. Bu sayfa online tabanlıdır, anlık olarak değiştirebiliyoruz...
+Gerekli duyulduğu taktirde buradan size yazılı uyarı yapılabilecek. Bu sayfa online tabanlıdır, anlık olarak değiştirebiliyoruz...
