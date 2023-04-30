@@ -9,9 +9,9 @@ Kurulum aşaması
 7-'updater' programına otomatik başlatılınca 'Güncelle/Tamir Et' dedikten sonra Launcher otomatik olarak açılacaktır
 (Launcher otomatik olarak açılmazsa oyun klasöründeki 'updater.exe'yi açın ve 7. maddeyi tekrarlayın)
 8-Launcher açılınca 'EDIT'i save klasönü aktar' diyerek kurulumu bitirin
-9-Oyun sürümünüz lite ise en son bypass yapmayı unutmayın
+9-Oyun sürümünüze göre son dosyaları atmayı unutmayın. PFG Mağaza > Diğer > Sürüm bölümü.
 
-Yeni kariyer açmanız gereklidir... Yoksa oyundan atma yaşarsınız.
+Pes Global v6.1 ile başladığınız kariyerlere devam edebilirsiniz.
 
 İyi oyunlar...
 
