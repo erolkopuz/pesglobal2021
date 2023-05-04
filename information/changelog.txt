@@ -1,3 +1,13 @@
+Pes Global 2021 v6.2
+1-Veritabanındaki bazı hatalar düzeltildi
+2-Antalyaspor da Fernado için overall düzeltildi
+3-3500 adet miniface'i olmayan oyuncuya miniface eklendi
+4-Tanımsız font (karakter) hataları düzeltildi
+5-[CPY] PES 2021 (crack) ile artık yama uyumlu hale getirildi
+
+Not: Pes Global v6.1 ile açılan kariyerlere devam edebilirsiniz. v6.1 den önceki sürümlerdeki kariyerlere devam ederseniz hata alacaksınız.
+____________________________________________________________________________________________________________
+
 Pes Global 2021 v6.1
 1-Overall düzeltmesi yapıldı
 2-Ana Lig varsayılan ve altyapı oyuncu yaşları düzeltildi

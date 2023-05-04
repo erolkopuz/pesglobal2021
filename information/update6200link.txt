@@ -1,6 +1,6 @@
 Kurulum aşaması
 
-1-Tüm modları ve tikleri kaldırın
+1-Tüm modları ve tikleri kaldırmadan bu işleme devam etmeyin
 2-Bu pencereyi sakın kapatmayın
 3-Linkten 'pfg6200.zip' dosyasını indirin >>> xxxxxxxxxxxxxxxxxxxxxxxxxxx
 4-İndirdiğiniz 'pfg6200.zip' dosyasını oyunun ana klasörüne atın
@@ -9,9 +9,11 @@ Kurulum aşaması
 7-'updater' programına otomatik başlatılınca 'Güncelle/Tamir Et' dedikten sonra Launcher otomatik olarak açılacaktır
 (Launcher otomatik olarak açılmazsa oyun klasöründeki 'updater.exe'yi açın ve 7. maddeyi tekrarlayın)
 8-Launcher açılınca 'EDIT'i save klasönü aktar' diyerek kurulumu bitirin
-9-Oyun sürümünüze göre son dosyaları atmayı unutmayın. PFG Mağaza > Diğer > Sürüm bölümü.
+9-Oyun sürümünüze göre son dosyaları atmayı unutmayın. PFG Mağaza > Diğer > Oyun Sürüm bölümünü inceleyin.
+(Oyununuz orijinal steam ise kurulum bitmiştir. Orijinal dışındaki 2 sürümden birine sahipseniz o bölümü inceleyin)
 
-Pes Global v6.1 ile başladığınız kariyerlere devam edebilirsiniz.
+Pes Global v6.1 ile açılan kariyerlere devam edebilirsiniz.
+v6.1 den önceki sürümlerdeki kariyerlere devam ederseniz hata alacaksınız.
 
 İyi oyunlar...
 
