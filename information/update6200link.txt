@@ -2,7 +2,7 @@ Kurulum aşaması
 
 1-Tüm modları ve tikleri kaldırmadan bu işleme devam etmeyin
 2-Bu pencereyi sakın kapatmayın
-3-Linkten 'pfg6200.zip' dosyasını indirin >>> xxxxxxxxxxxxxxxxxxxxxxxxxxx
+3-Linkten 'pfg6200.zip' dosyasını indirin >>> https://ay.live/pfg620
 4-İndirdiğiniz 'pfg6200.zip' dosyasını oyunun ana klasörüne atın
 5-'Güncellemeyi Kur' tuşuna basarak paketin yüklenmesini bekeyin
 6-Program kapatma uyarısı verince bunu onaylayın
