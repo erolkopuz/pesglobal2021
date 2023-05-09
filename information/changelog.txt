@@ -6,7 +6,7 @@ Pes Global 2021 v6.2
 5-[CPY] PES 2021 (crack) ile artık yama uyumlu hale getirildi
 
 Not: Pes Global v6.1 ile açılan kariyerlere devam edebilirsiniz. v6.1 den önceki sürümlerdeki kariyerlere devam ederseniz hata alacaksınız.
-____________________________________________________________________________________________________________
+_____________________________________________________________________
 
 Pes Global 2021 v6.1
 1-Overall düzeltmesi yapıldı
@@ -27,7 +27,7 @@ Pes Global 2021 v6.1
 16-Şükrü Saraçoğlu stadyumunun yüklenmeme (oyunun donma) hatası çözüldü
 
 Not: Yeni kariyer açmak zorunlu. Yoksa kariyerlerde hata alacaksınız. Stadyum map id'llerini güncellemezseniz stadyumlar siyah çıkacak.
-____________________________________________________________________________________________________________
+_____________________________________________________________________
 
 Pes Global 2021 v6.0
 1-Devre arası transferleri yapıldı
@@ -47,7 +47,7 @@ Pes Global 2021 v6.0
 15-Oyundan atma hataları düzeltildi.
 
 Not: Oyundan atma hataları çözüldü. Yeni kariyer açmak zorunlu. Yoksa kariyerlerde hata alacaksınız.
-____________________________________________________________________________________________________________
+_____________________________________________________________________
 
 Pes Global 2021 v5.4
 1-Oyundan atma hatası çözüldü
@@ -58,14 +58,14 @@ Pes Global 2021 v5.4
 6-Kariyerler 2022-2023 sezonundan başlayacak
 
 Not: Yeni kariyer açmak zorunlu. Yoksa kariyerlerde hata alacaksınız.
-____________________________________________________________________________________________________________
+_____________________________________________________________________
 
 Pes Global 2021 v5.3
 1-Al Nassr takımı eklendi (Diğer Asya Takımları)
 2-Bazı forma hataları düzeltildi
 
 Not: Yeni kariyer açmak zorunlu. Yoksa kariyerlerde hata alacaksınız.
-____________________________________________________________________________________________________________
+_____________________________________________________________________
 
 Pes Global 2021 v5.2
 1-Sahaya giriş müzikleri düzeltildi
@@ -80,7 +80,7 @@ Pes Global 2021 v5.2
 10-ML My Team eklendi (sider menüsü ile oyun içi seçilebiliyor).
 
 Not: Yeni kariyer açmak zorunlu. Yoksa kariyerlerde hata alacaksınız.
-____________________________________________________________________________________________________________
+_____________________________________________________________________
 
 PES Global 2021 v5.1
 1-Güncel transferler, diziliş ve forma numaraları
@@ -98,7 +98,7 @@ PES Global 2021 v5.1
 13-Hatalar ve eksiklikler giderildi
 
 NOT: Aynı zamanda Pes Global v5.0 Fix'i içinde barındırmaktadır.
-_____________________________________________________________________________________________________________
+______________________________________________________________________
 
 PES Global 2021 v5.0
 1-Yeni oyuncular efootball 2022 den aktarıldı.
@@ -130,12 +130,12 @@ PES Global 2021 v5.0
 NOT: Yeni sezon için geçiş (altyapı) güncellemesi olacaktır.
 Bazı içerikler sezon başında olduğumuz için belli değil, sonra yani v5.1 ile güncellenecektir.
 Ayrıca v5.1 çıktığında kariyerlerinize yeniden başlamanız gerekecektir.
-_____________________________________________________________________________________________________________
+______________________________________________________________________
 
 PES Global 2021 v4.3
 1-Yama son güncellemeye entegre edilip hatalar düzeltildi. (çökme ve maça girmeme hatası düzeltildi)
 2-Kariyerler için başlangıç (sözleşme hataları için) yılı 2021 yapıldı. (PFG Mağaza Diğer bölümü inceleyin)
-_____________________________________________________________________________________________________________
+______________________________________________________________________
 
 PES Global 2021 v4.2
 1-Kariyer modlarında 4 klasik oyuncu çıkıyor. Bunlar silindi.
@@ -152,7 +152,7 @@ Not:Aynı zamanda v4.1 Fix'i içermektedir.
 
 Not: Kariyerlerdeki gerçekçilik açısından v4.2 ile yeni kariyer açmanızı tavsiye ediyoruz. 
 Ayrıca hata alma riskiniz azalacaktır. Eski kariyere devam edersiz oyundan atlamalar olabilir.
-_____________________________________________________________________________________________________________
+______________________________________________________________________
 
 PES Global 2021 v4.1 - Kurulum Videosu: 
 1-Süper Lig ve TFF 1. Lig'in 10 Nisan 2022 piyasa değerleri ve sözleşme tarihleri
@@ -175,7 +175,7 @@ PES Global 2021 v4.1 - Kurulum Videosu:
 18-Gol müziklerinin sesi kısılarak, spiker ve diğer sesleri bastırması engellendi.
 19-Gol müzikleri kaldırma seçeneği tüm takımlara entegre edildi.
 20-Tünel çıkış müzikleri kaldırma seçeneği tüm takımlara entegre edildi.
-_____________________________________________________________________________________________________________
+______________________________________________________________________
 
 PES Global 2021 v4.0 - Kurulum Videosu: 
 1-Tüm Avrupa Liglerinin 21/22 formaları eklendi.
@@ -189,7 +189,7 @@ PES Global 2021 v4.0 - Kurulum Videosu:
 9-Immersion Mod seçmeli olarak eklendi.
 8-Veri tabanındaki hatalar düzeltildi.
 9-Eski kariyerlerinize devam ederseniz hata alırsınız !!!
-_____________________________________________________________________________________________________________
+______________________________________________________________________
 
 Pes Global v3.9.4
 1-Araçlar - ID'ler'den Türk Stadyum Kodları tuş hatası düzeltildi.
@@ -199,14 +199,14 @@ Pes Global v3.9.4
 4-Konami stadyum resim hatası düzeltildi.
 5-Bazı lig logoları güncellendi.
 6-Bazı liglerin kol logoları güncellendi.
-_____________________________________________________________________________________________________________
+______________________________________________________________________
 
 Pes Global v3.9.3
 1-Oyunun açılmama hatası düzeltildi.
 2-Giriş videosu gözükmeme hatası düzeltildi.
 3-Tezahürat paketini aktif etme sorunu düzeltildi.
 4-L. TCHAOUNA oyuncu gücü ve piyasa değeri düzeltildi.
-_____________________________________________________________________________________________________________
+______________________________________________________________________
 
 PES Global v3.9.2
 1-Bazı kramponların gözükmeme hatası düzeltildi.
@@ -229,7 +229,7 @@ PES Global v3.9.2
 18-Tüm stadyumlar için kar modu düzeltildi (stadyum paketi)
 19-Özel isim seslendirme çalışmama hatası giderildi. (ücretli içerik) 
 20-Taraftar paketi için her stadyuma özel giriş cümlesi eklendi. (ücretli içerik) 
-_____________________________________________________________________________________________________________
+______________________________________________________________________
 
 PES Global v3.9.1
 1-Portekiz Ligi forma hataları düzeltildi
@@ -237,7 +237,7 @@ PES Global v3.9.1
 3-Kriptolama daha güvenli hale getirildi
 4-Launcher güncellemek için Updater programı eklendi
 5-Türkçe Spikerde susma sorunu çözüldü
-_____________________________________________________________________________________________________________
+______________________________________________________________________
 
 PES Global v3.9
 1-Çift oyuncular tespit edilip silindi
@@ -268,7 +268,7 @@ PES Global v3.9
 Takımlar; Galatasaray, Real Madrid, Barcelona, Arsenal, Aston Villa, 
 Chelsea, Leed United, Liverpool, M. City,  M. United, Tottenham, 
 West Ham, Monaco, Marseille, PSG, Lyonnais ve Nice
-_____________________________________________________________________________________________________________
+______________________________________________________________________
 
 PES Global v3.8
 1-Çift oyuncular tespit edilip silindi
@@ -282,7 +282,7 @@ PES Global v3.8
 9-Bazı oyuncuların kramponlarını gözükmeme hatası çözüldü
 10-eFootball 2022 müzik paketi eklendi
 11-Aynı zamanda v3.7 Fix sürümünü de içermektedir.
-_____________________________________________________________________________________________________________
+______________________________________________________________________
 
 PES Global v3.7
 1-Yamadaki atma (takılma) hatası düzeltildi
@@ -305,7 +305,7 @@ PES Global v3.7
 18-Bazı minifaceler güncellendi
 19-Program (launcher) ve spiker güncelleme almama (kurmama) hatası düzeltildi
 (bu hatanın çözümü için discorddan duyuruya bakın)
-_____________________________________________________________________________________________________________
+______________________________________________________________________
 
 PES Global v3.6
 1-Avrupa liglerinin tamamının güncel transferleri (22 lig).
@@ -335,19 +335,19 @@ Diğer liglerin ve takımların transferleri sonra gelecektir (transfer dönemi 
 24-Giresunspor stadyumu sıfırdan yeniden çizildi.
 25-Eyüpspor stadyumu eklendi.
 26-Kocaelispor stadyumu eklendi.
-_____________________________________________________________________________________________________________
+______________________________________________________________________
 
 PES Global v3.5
 1-DLC 7 uyumluğu geldi.
 2-DLC 7 ile bozulan yama düzeltildi.
 3-DLC 7 ile yama online uyumlu hale getirildi. 
-_____________________________________________________________________________________________________________
+______________________________________________________________________
 
 PES Global v3.4
 1-DLC 6 uyumluğu geldi.
 2-DLC 6 ile bozulan yama düzeltildi.
 3-DLC 6 ile yama online uyumlu hale getirildi. 
-_____________________________________________________________________________________________________________
+______________________________________________________________________
 
 PES Global v3.3
 1-Miniface'i olmayan oyunculara miniface eklendi.
@@ -355,7 +355,7 @@ PES Global v3.3
 3-Sahte kramponlar kaldırıldı.
 4-Sahte kaleci eldivenleri kaldırıldı.
 5-Bazı hatalar düzeltildi.
-_____________________________________________________________________________________________________________
+______________________________________________________________________
 
 PES Global v3.2
 1-Launcher hataları düzeltildi.
@@ -369,7 +369,7 @@ PES Global v3.2
 9-Beşiktaş koltuk kaplamaları düzeltildi.
 10-Ziraat ve TFF Süper Kupa skorbord uzatma dakika hatası düzeltildi.
 11-3 UEFA turnuvasının tv logosu güncellendi.
-_____________________________________________________________________________________________________________
+______________________________________________________________________
 
 PES Global v3.1
 1-Efsane Ol başlatma hatası düzeltildi.
@@ -406,7 +406,7 @@ PES Global v3.1
 32-Edit dosyaları bozulunca otomatik düzelten sistem yapıldı. (launcher)
 33-Immersion mod sorun çıkarttığı için devre dışı bırakıldı.
 34-No Regens mod sorun çıkarttığı için devre dışı bırakıldı.
-_____________________________________________________________________________________________________________
+______________________________________________________________________
 
 PES Global v3.0
 1-DLC 5 uyumluğu geldi.
