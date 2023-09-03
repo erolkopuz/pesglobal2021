@@ -1,21 +1,21 @@
 Pes Global 2021 v6.4 - Planlanmış güncelleme henüz çıkış tarihi belli değil...
 1-Veritabanındaki bazı hatalar düzeltildi
-2-Tüm Liglerin 2023-2024 sezonu formaları eklendi
+2-Liglerin 2023-2024 sezonu formaları eklendi
 3-Suudi Arabistan Ligi güncellendi
-4-Trendyol 1. Lig için 2023-2024 sezonu formaları eklendi
+4-Bazı Skorbordlar güncellendi
 5-Yeni oyunculara miniface eklendi
-6-Önemli transferlerin çoğu yapıldı
+6-Bazı top, krampon, kaleci eldivenleri ve hakem formaları güncellendi
 7-Tüm takımların transferleri yapıldı
 
 Not: Pes Global v6.3 ile açılan kariyerlere devam edemezsiniz. v6.3 den önceki sürümlerdeki kariyerlere devam ederseniz hata alacaksınız.
 _____________________________________________________________________
 
-Pes Global 2021 v6.3 - Çok yakında sizlerle...................
+Pes Global 2021 v6.3 
 1-Veritabanındaki bazı hatalar düzeltildi
 2-Tüm Liglerin 2023-2024 sezonu düşen çıkan takımlar ayarlandı
-3-Suudi Arabistan Ligi eklendi
-4-Trendyol Süper Lig için 2023-2024 sezonu formaları eklendi
-5-Yeni oyunculara miniface eklendi
+3-Suudi Arabistan Ligi eklendi (kadro ve formalar sonraki sürümde)
+4-Süper Lig-TFF 1. Lig için 2023-2024 sezonu formaları eklendi
+5-Bazı top, krampon, kaleci eldivenleri ve hakem formaları güncellendi
 6-Önemli transferlerin çoğu yapıldı
 7-Lig ve takım logoları güncellendi
 
