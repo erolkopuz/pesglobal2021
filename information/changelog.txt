@@ -1,6 +1,4 @@
-Pes Global 2021 v6.4 - Sürüm çalışmalarımız bitmitir.
-
-Son testler, paketleme ve yükleme işlemi göz önüne alırsak en geç 12 kasım akşamı güncelleme çıkacaktır.
+Pes Global 2021 v6.4
 
 1-Veritabanındaki bazı hatalar düzeltildi
 2-Liglerin 2023-2024 sezonu formaları eklendi
