@@ -4,8 +4,8 @@ Kurulum aşaması
 2-Bu pencereyi sakın kapatmayın
 3-Linkten 'pfg6000.zip' dosyasını indirin >>> https://ay.live/pfg600
 4-İndirdiğiniz 'pfg6000.zip' dosyasını oyunun ana klasörüne atın
-5-'Güncellemeyi Kur' tuşuna basarak paketin yüklenmesini bekeyin
-6-Program kapatma uyarısı verince bunu onaylayın
+5-'Güncellemeyi Kur' tuşuna basarak paketin yüklenmesini bekleyin
+6-Program kapatma uyarısı verince onaylayın
 7-'updater' programına otomatik başlatılınca 'Güncelle/Tamir Et' dedikten sonra Launcher otomatik olarak açılacaktır
 (Launcher otomatik olarak açılmazsa oyun klasöründeki 'updater.exe'yi açın ve 7. maddeyi tekrarlayın)
 8-Launcher açılınca 'EDIT'i save klasönü aktar' diyerek kurulumu bitirin

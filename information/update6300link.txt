@@ -3,8 +3,8 @@ Kurulum aşaması
 1-Bu pencereyi kapatmadan programda tüm mod ve tikleri kaldırın
 2-Linkten 'pfg6300.zip' dosyasını indirin >>> https://ay.live/pfg630 <<< Kurulum videosu: https://ay.live/pfg63k
 3-İndirdiğiniz 'pfg6300.zip' dosyasını oyunun ana klasörüne atın
-4-'Güncellemeyi Kur' tuşuna basarak paketin yüklenmesini bekeyin
-5-Program kapatma uyarısı verince bunu onaylayın
+4-'Güncellemeyi Kur' tuşuna basarak paketin yüklenmesini bekleyin
+5-Program kapatma uyarısı verince onaylayın
 6-'updater.exe' programı otomatik başlatılınca 'Güncelle/Tamir Et' dedikten sonra Launcher otomatik olarak açılacaktır
 7-Launcher otomatik olarak açılmazsa oyun klasöründeki 'updater.exe'yi açın ve 6. maddeyi tekrarlayın)
 8-Launcher otomatik açılınca 'EDIT'i save klasönü aktar' diyerek son aşamaya geçin
