@@ -1,6 +1,7 @@
-PES Global v5.4 ve üzeri sürümlerle uyumlu yeni spiker.
+PES Global v6.4 ve üzeri sürümlerle uyumlu yeni spiker.
+Bu spiker eski yama sürümlerde çalışmaz.
 
-Çıkış Tarihi 23.04.2023 - 17:00 Pazar
+Çıkış Tarihi 12.11.2023 - 23:00 Pazar
 
 İndirme Linki; https://ay.live/21spik
 Kurulum videosu; https://ay.live/spkern
