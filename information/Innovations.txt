@@ -1,4 +1,12 @@
 ﻿
+PES Global 2021 v6.4.0.0
+1-Programların sürümleri değiştirildi.
+2-Kablolu-kablosuz çoklu giriş hatası düzeltildi.
+
+PES Global 2021 v6.3.0.0
+1-Programların sürümleri değiştirildi.
+2-Kablolu-kablosuz çoklu giriş hatası düzeltildi.
+
 PES Global 2021 v6.2.0.0
 1-Programların sürümleri değiştirildi.
 2-Kablolu-kablosuz çoklu giriş hatası düzeltildi.
