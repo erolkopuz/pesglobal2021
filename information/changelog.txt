@@ -8,7 +8,7 @@ Pes Global 2021 v6.5
 6-Yeni top, krampon ve eldivenler ekledi
 7-Eksik kalan oyuncuların minifaceleri eklendi
 8-Eksik olan oyuncular takımlara eklendi (Diğer Avrupa Takımları)
-9-Brezilya liginin eksik transferleri yapıldı
+9-Farkedilen transfer hatalı düzeltildi
 
 Not: Pes Global v6.5 yeni kariyer açmak zorundasınız. Veri tabanında düzeltme yapıldığı için eski sürümlerdeki kariyerlere devam ederseniz atma hatası olacaktır.
 Formalar hariç bir sorun ya da eksiklik görürseniz bize hemen bildirmeniz halinde sorun bu sürümde sorun çözülecektir.
