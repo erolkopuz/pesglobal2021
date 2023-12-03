@@ -4,7 +4,7 @@ Pes Global 2021 v6.5
 2-Genç oyuncuların kariyerde serbest kalma sorunu çözüldü
 3-Bazı liglerin piyasa değerleri ve sözleşme tarihleri güncellendi
 4-Yeni eklenen oyuncuların default faceleri (ten rengi) hataları düzeltildi
-5-Formalardaki eksiklikler ve hatalar düzeltildi
+5-Forma ve fontlardaki tüm hatalar düzeltildi
 6-Yeni top, krampon ve eldivenler ekledi
 7-Eksik kalan oyuncuların minifaceleri eklendi
 8-Farkedilen transfer hataları düzeltildi ve eksik oyuncular eklendi
