@@ -2,7 +2,7 @@ Kurulum aşaması
 
 1-Tüm modları ve tikleri kaldırın
 2-Bu pencereyi sakın kapatmayın
-3-Linkten 'pfg6500.zip' dosyasını indirin >>> xxxxxxxxxxxxxxxxxxx <<< Kurulum videosu: yyyyyyyyyyyyyyyyyy
+3-Linkten 'pfg6500.zip' dosyasını indirin >>> https://ay.live/pfg650 <<< Kurulum videosu: yyyyyyyyyyyyyyyyyy
 4-İndirdiğiniz 'pfg6500.zip' dosyasını oyunun ana klasörüne atın (zip ismini 'pfg6400.zip' yapın)
 5-'Güncellemeyi Kur' tuşuna basarak paketin yüklenmesini bekleyin
 6-Program kapatma uyarısı verince onaylayın
