@@ -10,7 +10,7 @@ Pes Global 2021 v6.5
 8-Eksik kalan oyuncuların minifaceleri eklendi
 9-Farkedilen transfer hataları düzeltildi ve eksik oyuncular eklendi (sallama oyuncular silindi)
 10-Brezilya Liglerindeki sahte oyuncu isimleri düzeltildi (5 oyuncu hariç)
-11-Piyasa değerleri güncellendi (en pahalı 250 oyuncu)
+11-Top 500 oyuncunun piyasa değeri güncellendi
 12-Yeni 6 adet menü modu eklendi
 
 Not: Pes Global v6.5 yeni kariyer açmak zorundasınız. Veri tabanında düzeltme yapıldığı için eski sürümlerdeki kariyerlere devam edemezsiniz.
