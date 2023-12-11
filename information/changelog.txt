@@ -2,18 +2,18 @@ Pes Global 2021 v6.5
 
 1-Veritabanında güncelleme yapıldı ve hatalar düzeltildi
 2-Genç oyuncuların kariyerde serbest kalma sorunu çözüldü
-3-Bazı liglerin piyasa değerleri ve sözleşme tarihleri güncellendi
+3-Türkiye liglerinin piyasa değeri, sözleşmeler ve kiralık değerler güncellendi
 4-Yeni eklenen oyuncuların default faceleri (ten rengi) hataları düzeltildi
-5-Forma ve fontlardaki tüm hatalar düzeltildi
-6-Yeni top, krampon ve eldivenler ekledi
-7-Eksik kalan oyuncuların minifaceleri eklendi
-8-Farkedilen transfer hataları düzeltildi ve eksik oyuncular eklendi
-9-Gerçek olmayan sallama oyuncular silindi
+5-Azerbaycan, Arjantin, Şili ve Kolombiya ligleri hariç tüm liglerin 23/24 formaları
+6-Tüm takımların formalarındaki hatalar düzeltildi (yaka ve font hataları)
+7-Yeni top, krampon ve eldivenler ekledi
+8-Eksik kalan oyuncuların minifaceleri eklendi
+9-Farkedilen transfer hataları düzeltildi ve eksik oyuncular eklendi (sallama oyuncular silindi)
 10-Brezilya Liglerindeki sahte oyuncu isimleri düzeltildi (5 oyuncu hariç)
-
+11-Piyasa değerleri güncellendi (en pahalı 250 oyuncu)
+12-Yeni 6 adet menü modu eklendi
 
 Not: Pes Global v6.5 yeni kariyer açmak zorundasınız. Veri tabanında düzeltme yapıldığı için eski sürümlerdeki kariyerlere devam edemezsiniz.
-
 _____________________________________________________________________
 
 
