@@ -1,23 +1,19 @@
-PES Global Stadium Server v3.1
-Sadece PES Global v5.1 ve üzeri sürümler için uyumludur.
+PES Global Stadium Server v4.0 - Çıkış Tarihi 13.11.2023
+Sadece PES Global v6.4 ve üzeri sürümler için uyumludur.
 Stadyumların oyun için siyah gözükmemesi için kurulumu izleyiniz.
 
-Çıkış Tarihi 30.12.2022 - 22:00 Cuma
-
-İndirmek için: https://ay.live/gSyD4
-Stadyum Paketi v3.0 Kurulum videosu: https://ay.live/oBdLh
-Stadyum Paketi v3.1 Kurulum videosu: https://ay.live/jf43I
-Rar Şifresi;www.pesfifaglobal.com
-
-Sakaryaspor stadyumu hatasını düzeltmek için; 'Sakaryaspor' klasörünü silin
-1-eFootball PES 2021\content\stadium-server\pfg\Sakaryaspor
-2-'Kocaeslispor' klasörünü kopyala ve yapıştır diyerek 'Kocaeslipor' klasörünün kopyasını oluşturun
-3-'Kocaeslispor - Kopya' olan kopya klasörünün adını 'Sakaryaspor' olarak değiştirin ve işlem bitti
+İndirmek Linki: https://ay.live/gSyD4
+Kurulum videosu: https://ay.live/FMkbco
 
 Özellikler
 Süper Lig stadyumları
 TFF 1. Lig stadyumları
 Azerbaycan Premyer Liqa stadyumları
 Bazı klasik stadyumlarda mevcuttur.
+
+Arabistan Ligi Stadyum Paketi v1.0 - Çıkış Tarihi 17.12.2023
+
+İndirmek Linki: https://ay.live/gSyD4
+Kurulum videosu: video hazırlanıyor.....
 
 kurulum notunu dikkatli okuyun yapıştırılması gereken kodları unutmayın
