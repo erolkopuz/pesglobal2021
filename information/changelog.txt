@@ -9,7 +9,7 @@ Pes Global 2021 v6.5
 7-Yeni top, krampon ve eldivenler ekledi
 8-Eksik kalan oyuncuların minifaceleri eklendi
 9-Farkedilen transfer hataları düzeltildi ve eksik oyuncular eklendi (sallama oyuncular silindi)
-10-Brezilya Liglerindeki sahte oyuncu isimleri düzeltildi (bazı oyuncu hariç)
+10-Brezilya Liglerindeki sahte oyuncu isimleri düzeltildi (sahte oyuncu isimlerinde * karakteri var)
 11-En pahalı 500 oyuncunun piyasa değeri güncellendi
 12-Yeni 6 adet menü modu eklendi
 
