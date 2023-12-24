@@ -1,3 +1,13 @@
+Pes Global 2021 v6.6 - Planlı güncelleme ile düzeltilen hatalar
+
+1-Yeni gol ve giriş müzikleri eklendi.
+2-Ligler için menü grafikleri güncellendi
+3-Tüm takıların formalarındaki hatalar düzeltildi (Premier Lig, La Liga, Bundesliga v.s.)
+4-Türk takımlarına forma ve sponsor güncellemesi yapıldı
+5-Azeri Ligi için 23-24 sezon forma ve fontları eklendi
+
+_____________________________________________________________________
+
 Pes Global 2021 v6.5
 
 1-Veritabanında güncelleme yapıldı ve hatalar düzeltildi
@@ -15,7 +25,6 @@ Pes Global 2021 v6.5
 
 Not: Pes Global v6.5 yeni kariyer açmak zorundasınız. Veri tabanında düzeltme yapıldığı için eski sürümlerdeki kariyerlere devam edemezsiniz.
 _____________________________________________________________________
-
 
 Pes Global 2021 v6.4
 
