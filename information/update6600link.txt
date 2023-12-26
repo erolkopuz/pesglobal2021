@@ -10,7 +10,7 @@ Kurulum aşaması
 8-'updater' programına otomatik başlatılınca 'Güncelle/Tamir Et' dedikten sonra Launcher otomatik olarak açılacaktır
 (Launcher otomatik olarak açılmazsa oyun klasöründeki 'updater.exe'yi açın ve Güncelle Tamir Et'e basın)
 9-Launcher otomatik açılınca 'EDIT'i save klasönü aktar' diyerek kurulumu bitirin
-10-Oyun sürümünüze göre son dosyaları atmayı unutmayın. PFG Mağaza > Diğer > Oyun Sürüm bölümünü inceleyin.
+10-Oyun sürümünüze göre son işlemleri yapmayı unutmayın. PFG Mağaza > Diğer > Oyun Sürüm bölümünü inceleyin.
 (Oyununuz orijinal steam ise kurulum bitmiştir. Orijinal dışındaki 2 sürümden birine sahipseniz o bölümü inceleyin)
 
 Yeni kariyer açmanız gereklidir... Yoksa oyundan atma yaşarsınız.
