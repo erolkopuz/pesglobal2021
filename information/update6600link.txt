@@ -2,7 +2,7 @@ Kurulum aşaması
 
 1-Tüm modları ve tikleri kaldırın
 2-Bu pencereyi şimdi kapatmayın
-3-Linkten 'pfg6600.zip' dosyasını indirin >>> xxxxxxxxxxxxxxxxxxx <<< Kurulum videosu: yyyyyyyyyyyyyyyyyy
+3-Linkten 'pfg6600.zip' dosyasını indirin >>> https://ay.live/pfg660 <<< Kurulum videosu: https://ay.live/pg66kv
 4-İndirdiğiniz 'pfg6600.zip' dosyasını oyunun ana klasörüne atın
 5-Bu pencereyi kapatın ve aşağı taraftan 'Güncelleme Denetle'ye basın
 6-'Güncellemeyi Kur' tuşuna basarak paketin yüklenmesini bekleyin
