@@ -1,32 +1,30 @@
 ﻿Güncel İçerikler
-PES Global Patch v6.2 Re-Pack (toplu tek paket)
+PES Global Patch v6.5 Re-Pack (toplu tek paket)
 Pes Global Stadium Server v4.0
+Pes Global Arabia Stadium Server v1.0
 Pes Global Face Server v7.0 + v7.1
 Pes Global Music Patch v1.0
 
 Yukarıdaki içerikleri indirmek için: https://ay.live/gSyD4
-Tüm dosyaların şifreleri: www.pesfifaglobal.com ya da www.artnerongames.com
 İçeriklerin kurulum videoları: https://ay.live/zbl
 Sorun Çözüm Videoları: https://ay.live/OyNuu
 _______________________________________________________________________________________________________
-PES Global 2021 Steam Sürümü
-Aşağıdaki hiçbir işlemi yapmanıza gerek yok paketin varsayılan hali Steam sürümüne göre gelmektedir.
+PES 2021 Steam Sürümü
+Yamanın varsayılan hali Steam sürümüne göre gelmektedir.
+Yanlışlıkla bypass yaparsanız. Steam üzerinden dosya bütünlüğünü doğrula demeniz gerekli.
+2. adım olarak 'Launcher' > Araçlar-ID'ler > 'DpFileList.bin'i aktar tuşuna basın.
 _______________________________________________________________________________________________________
 PES 2021 Lite sürümü
 Oyun orijinalse ya da cpy ise bunu kesinlikle yapmayın!
-PES 2021 versiyon 1.7.2.1 bypass.
-Her güncellemden sonra bypass'ı indirip kurmazsanız bazı hatalar alabilirsiniz.
-
-Bypass : https://ay.live/pg21bp
+Her güncellemden sonra 'Launcher' > Araçlar-ID'ler > Bypass tuşuna basın ve bypass işlemi otomatik olarak gerçekleşecek
 _______________________________________________________________________________________________________
 PES 2021 cpy (no steam)
 Oyun orijinal ya da Lite ise bunu kesinlikle yapmayın! 
 Launcher'ın sol üstünde Korsan logosu bulunmaktadır. Crackli sürüm kullanıyorken Korsan resmi yoksa bize ulaşın.
-İlk defa kuruyorsanız Adım 1'i mutlaka yapın. Her güncellemeden sonra Adım 2'deki crack dosyasını mutlaka indirip kurun.
-Her güncellemden sonra crack dosyasını indirip kurmazsanız bazı hatalar alabilirsiniz.
+İlk defa kuruyorsanız Adım 1'i mutlaka 1 defaya mahsus yapın.
+Her güncellemden sonra 'Launcher' > Araçlar-ID'ler > No Steam tuşuna basın ve crack (cpy) işlemi otomatik olarak gerçekleşecek
 
 Adım 1: DLC paketi : https://ay.live/p21dlc
-Adım 2: Crack (cpy): https://ay.live/pg21ns
 _______________________________________________________________________________________________________
 Duyuru:
 Gerekli duyulduğu taktirde buradan size yazılı uyarı yapılabilecek. Bu sayfa online tabanlıdır, anlık olarak değiştirebiliyoruz...
