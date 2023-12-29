@@ -1,4 +1,8 @@
 ﻿
+PES Global 2021 v6.6.0.0
+1-Programların sürümleri değiştirildi.
+2-Gereksiz dosyalar otomatik olarak sildirildi.
+
 PES Global 2021 v6.5.0.0
 1-Programların sürümleri değiştirildi.
 
