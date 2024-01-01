@@ -1,10 +1,10 @@
-Pes Global Faceserver v7.0 + v7.1 - Çıkış Tarihi: 19.11.2023 Saat 23:00-Pazar
-1-11000+ yüz (yüzü olmayan oyunculara yüz eklendi)
-2-100+ yüz güncellendi (renkli gözüken yüz ve dövmeler düzeltildi)
-4-200+ oyuncuya yüz ve boyun dövmesi eklendi
-5-1100+ oyuncuya kol dövmesi eklendi
-6-250+ oyuncuya bacak dövmesi eklendi
-7-Hatalı 7 yüz düzeltildi (oyundan atma hatası veren yüzler)
+Pes Global Faceserver v7.0 + v7.2 - Çıkış Tarihi: 31.12.2023 Saat 23:00-Pazar
+1-12000+ yüz (yüzü olmayan oyunculara yüz eklendi)
+2-300+ yüz güncellendi (renkli gözüken yüz ve dövmeler düzeltildi)
+4-250+ oyuncuya yüz ve boyun dövmesi eklendi
+5-1200+ oyuncuya kol dövmesi eklendi
+6-300+ oyuncuya bacak dövmesi eklendi
+7-Hatalı 7 yüz düzeltildi (oyundan atma hatası veren yüzler - faceserver v7.2 ile hata düzeltildir)
 
 İndirmek için: https://ay.live/gSyD4
 Kurulum Videosu : https://ay.live/WbbWqk
