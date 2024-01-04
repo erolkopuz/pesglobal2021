@@ -1,3 +1,13 @@
+Pes Global 2021 v6.7 - Çok yakında.....
+
+1-Veritabanındaki bazı hatalar düzeltildi
+2-Hatalı forma ve fontlar düzeltildi (La Liga 2 vb.)
+3-Formalardaki içlik ve radar renkleri düzeltildi
+
+Not: Sadece v6.5 ya da v6.6 ile açılan kariyerlere devam edebilirsiniz.
+
+_____________________________________________________________________
+
 Pes Global 2021 v6.6
 
 1-Yeni gol ve giriş müzikleri eklendi.
