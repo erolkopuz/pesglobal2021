@@ -1,7 +1,9 @@
 PES Global v6.4 ve üzeri sürümlerle uyumlu yeni spiker.
 Bu spiker eski yama sürümlerde çalışmaz.
 
-Çıkış Tarihi 12.11.2023 - 23:00 Pazar
+Çıkış Tarihi
+Erol Kopuz yorumculu   - 12.11.2023 - 23:00 Pazar
+Aydoğan Oral yorumculu - 06.01.2024 - 18:00 Cumartesi
 
 İndirme Linki; https://ay.live/21spik
 Kurulum videosu; https://ay.live/spkern
@@ -13,9 +15,8 @@ Kurulum
 4-Oyuna girin; Ayarlar > Sistem Ayarları > Dil Ayarları > Anlatım Dili
 
 Not: Oyun içi spiker seçmemeniz durmunda spiker maçta tamamen sessiz kalacaktır.
-
-Sonra eklenecek spikerler
-Çağatay Kuş
+Pes Global 2021 ile diğer tüm oyun orijinalindeki spikerler tamamen geçersiz kılınmıştır
+(Başka dilde spiker seçseniz bile, maçta tamamen sessiz kalacaktır)
 
 Gol ve Stadyum Replikleri
 Son resmi güncellemden sonra oyunda çökme yaşattığı için deaktif edilmiştir.
