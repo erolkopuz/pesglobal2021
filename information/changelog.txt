@@ -1,11 +1,14 @@
 Pes Global 2021 v6.7 - Çok yakında.....
 
 1-Veritabanındaki bazı hatalar düzeltildi
-2-Hatalı forma ve fontlar düzeltildi (La Liga 2 vb.)
-3-Formalardaki içlik ve radar renkleri düzeltildi
+2-Bazı sahte isimler düzeltildi
+3-Hatalı forma ve fontlar düzeltildi
+4-Formalardaki içlik ve radar renkleri düzeltildi
+5-Bazı takımlara yeni sezon formaları eklendi
 
 Not: Sadece v6.5 ya da v6.6 ile açılan kariyerlere devam edebilirsiniz.
-
+Sahte oyuncuların isimlerin yanında yıldız (*) simgesi vardır.
+Sadece Brezilya liglerinde bazı oyuncularda sahte isimler mevcuttur.
 _____________________________________________________________________
 
 Pes Global 2021 v6.6
