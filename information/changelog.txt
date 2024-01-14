@@ -5,6 +5,7 @@ Pes Global 2021 v6.7 - Çok yakında.....
 3-Hatalı forma ve fontlar düzeltildi
 4-Formalardaki içlik ve radar renkleri düzeltildi
 5-Bazı takımlara yeni sezon formaları eklendi
+6-Düşen çıkan ve uluslararası kupalara gidecek takım sayıları ayarlandı
 
 Not: Sadece v6.5 ya da v6.6 ile açılan kariyerlere devam edebilirsiniz.
 Sahte oyuncuların isimlerin yanında yıldız (*) simgesi vardır.
