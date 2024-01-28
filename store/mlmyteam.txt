@@ -1,6 +1,8 @@
 Master League Selector
 
-Oyun ana menüsünde boşluk tuşuna basıp 'Q' harfinin üzerindeki '1' tuşu ile Master League Selector bölümüne gelin ve ekrandaki kısayollara bakarak istediğinzi takımın grafiklerini aktif olarak ayarlayabilirsiniz. Sonra Ana Lig de kariyerine giriş yapıp sorunsuzca oynayabilirsiniz.
+Oyun ana menüsünde boşluk tuşuna basıp 'Q' harfinin üzerindeki '1' tuşu ile Master League Selector bölümüne gelin.
+arakrandaki kısayollara bakarak istediğinzi takımın grafiklerini aktif olarak ayarlayabilirsiniz.
+Sonra Ana Lig de kariyerine giriş yapıp sorunsuzca oynayabilirsiniz.
 
-Henüz test aşamasında olduğu için hata durumunda geri bildirim yapmayı unutmayın...
-Discord üzerinden hataları bildirebilrisiniz.
+Boşluk tuşu ile Sider menüsünden Master League Selector gözükmüyorsa, paketi tekrar sıfırdan kurmanız gerekli.
+Bazı dosyalar bozulup silinmiş olduğundan sıfırdan kurmanız gereklidir.
