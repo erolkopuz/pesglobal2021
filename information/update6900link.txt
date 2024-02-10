@@ -1,0 +1,21 @@
+Kurulum aşaması
+
+1-Tüm modları ve tikleri kaldırın
+2-Bu pencereyi şimdi kapatmayın
+3-Linkten 'pfg6900.zip' dosyasını indirin >>> xxxxxxxxxxxxxxxxxxx <<< Kurulum videosu: yyyyyyyyyyyyyyyyyy
+4-İndirdiğiniz 'pfg6900.zip' dosyasını oyunun ana klasörüne atın
+5-Bu pencereyi kapatın ve aşağı taraftan 'Güncelleme Denetle'ye basın
+6-'Güncellemeyi Kur' tuşuna basarak paketin yüklenmesini bekleyin
+7-Program kapatma uyarısı verince onaylayın
+8-'updater' programına otomatik başlatılınca 'Güncelle/Tamir Et' dedikten sonra Launcher otomatik olarak açılacaktır
+(Launcher otomatik olarak açılmazsa oyun klasöründeki 'updater.exe'yi açın ve Güncelle Tamir Et'e basın)
+9-Launcher otomatik açılınca 'EDIT'i save klasönü aktar' diyerek kurulumu bitirin
+10-Oyun sürümünüze göre son işlemleri yapmayı unutmayın. PFG Mağaza > Diğer > Oyun Sürüm bölümünü inceleyin.
+(Oyununuz orijinal steam ise kurulum bitmiştir. Orijinal dışındaki 2 sürümden birine sahipseniz o bölümü inceleyin)
+
+Yeni kariyer açmanız gereklidir... Yoksa oyundan atma yaşarsınız.
+
+İyi oyunlar...
+
+Yaparsa PFG yapar...
+www.artnerongames.com
