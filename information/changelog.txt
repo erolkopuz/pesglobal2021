@@ -5,11 +5,13 @@ Pes Global 2021 v6.8
 
 1-Veritabanındaki bazı hatalar düzeltildi
 2-Kış transferleri yapıdı
-3-Bazı sahte isimler düzeltildi
-4-Formalarda düzeltmeler yapıldı
-5-2024 sezonuna geçen liglerin yeni sezon takımları eklendi
-6-Yeni oyuncuşar için mini face eklendi
-7-Fenerbahçe gol müziği güncellendi
+3-Arap oyuncu isimleri düzeltildi
+4-Çift oyuncular silindi
+5-Bazı sahte isimler düzeltildi
+6-Formalarda düzeltmeler yapıldı
+7-2024 sezonuna geçen liglerin yeni sezon takımları eklendi
+8-Yeni oyuncular için mini face eklendi
+9-Fenerbahçe gol müziği güncellendi
 
 Not: Bu sürümde yeni kariyer açmak zorundasınız.
 _____________________________________________________________________
