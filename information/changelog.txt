@@ -1,7 +1,7 @@
 Not: Sahte oyuncuların isimlerin yanında yıldız (*) simgesi vardır.
 Sadece Brezilya liglerinde bazı oyuncularda sahte isimler mevcuttur.
 _____________________________________________________________________
-Pes Global 2021 v6.8
+Mellivora PES 2021 v6.8
 
 1-Veritabanındaki bazı hatalar düzeltildi
 2-Kış transferleri yapıdı
@@ -9,14 +9,14 @@ Pes Global 2021 v6.8
 4-Çift oyuncular silindi
 5-Bazı sahte isimler düzeltildi
 6-Formalarda düzeltmeler yapıldı
-7-2024 sezonuna geçen liglerin yeni sezon takımları eklendi
+7-Japonya, Amerika, Arjantin, Şili ve Brezilya 1-2 Ligleri için 2024 sezon takımları
 8-Yeni oyuncular için mini face eklendi
 9-Fenerbahçe gol müziği güncellendi
 
 Not: Bu sürümde yeni kariyer açmak zorundasınız.
 _____________________________________________________________________
 
-Pes Global 2021 v6.7
+Mellivora PES 2021 v6.7
 
 1-Veritabanındaki bazı hatalar düzeltildi
 2-Bazı sahte isimler düzeltildi
@@ -29,7 +29,7 @@ Not: Sadece v6.5 ya da v6.6 ile açılan kariyerlere devam edebilirsiniz.
 
 _____________________________________________________________________
 
-Pes Global 2021 v6.6
+Mellivora PES 2021 v6.6
 
 1-Yeni gol ve giriş müzikleri eklendi.
 2-Ligler için menü grafikleri güncellendi
@@ -41,7 +41,7 @@ Not: Sadece v6.5 ile açılan kariyerlere devam edebilirsiniz.
 
 _____________________________________________________________________
 
-Pes Global 2021 v6.5
+Mellivora PES 2021 v6.5
 
 1-Veritabanında güncelleme yapıldı ve hatalar düzeltildi
 2-Genç oyuncuların kariyerde serbest kalma sorunu çözüldü
@@ -56,10 +56,10 @@ Pes Global 2021 v6.5
 11-En pahalı 500 oyuncunun piyasa değeri güncellendi
 12-Yeni 6 adet menü modu eklendi
 
-Not: Pes Global v6.5 yeni kariyer açmak zorundasınız. Veri tabanında düzeltme yapıldığı için eski sürümlerdeki kariyerlere devam edemezsiniz.
+Not: Mellivora PES v6.5 yeni kariyer açmak zorundasınız. Veri tabanında düzeltme yapıldığı için eski sürümlerdeki kariyerlere devam edemezsiniz.
 _____________________________________________________________________
 
-Pes Global 2021 v6.4
+Mellivora PES 2021 v6.4
 
 1-Veritabanındaki bazı hatalar düzeltildi
 2-Liglerin 2023-2024 sezonu formaları eklendi
@@ -69,10 +69,10 @@ Pes Global 2021 v6.4
 6-Bazı top, krampon, kaleci eldivenleri ve hakem formaları güncellendi
 7-Tüm takımların transferleri yapıldı
 
-Not: Pes Global v6.3 ile açılan kariyerlere devam edemezsiniz. v6.3 den önceki sürümlerdeki kariyerlere devam ederseniz hata alacaksınız.
+Not: Mellivora PES v6.3 ile açılan kariyerlere devam edemezsiniz. v6.3 den önceki sürümlerdeki kariyerlere devam ederseniz hata alacaksınız.
 _____________________________________________________________________
 
-Pes Global 2021 v6.3 
+Mellivora PES 2021 v6.3 
 1-Veritabanındaki bazı hatalar düzeltildi
 2-Tüm Liglerin 2023-2024 sezonu düşen çıkan takımlar ayarlandı
 3-Suudi Arabistan Ligi eklendi (kadro ve formalar sonraki sürümde)
@@ -82,19 +82,19 @@ Pes Global 2021 v6.3
 7-Lig ve takım logoları güncellendi
 
 Duyuru: Yeni eklenen takımlar için kadrolar, formalar ve tüm takımların transferleri-formaları v.6.4 sürümünde gelecektir.
-Not: Pes Global v6.2 ile açılan kariyerlere devam edemezsiniz. v6.2 den önceki sürümlerdeki kariyerlere devam ederseniz hata alacaksınız.
+Not: Mellivora PES v6.2 ile açılan kariyerlere devam edemezsiniz. v6.2 den önceki sürümlerdeki kariyerlere devam ederseniz hata alacaksınız.
 _____________________________________________________________________
-Pes Global 2021 v6.2
+Mellivora PES 2021 v6.2
 1-Veritabanındaki bazı hatalar düzeltildi
 2-Antalyaspor da Fernado için overall düzeltildi
 3-4000+ adet miniface'i olmayan oyuncuya miniface eklendi
 4-Tanımsız font (karakter) hataları düzeltildi
 5-[CPY] PES 2021 (crack) ile artık yama uyumlu hale getirildi
 
-Not: Pes Global v6.1 ile açılan kariyerlere devam edebilirsiniz. v6.1 den önceki sürümlerdeki kariyerlere devam ederseniz hata alacaksınız.
+Not: Mellivora PES v6.1 ile açılan kariyerlere devam edebilirsiniz. v6.1 den önceki sürümlerdeki kariyerlere devam ederseniz hata alacaksınız.
 _____________________________________________________________________
 
-Pes Global 2021 v6.1
+Mellivora PES 2021 v6.1
 1-Overall düzeltmesi yapıldı
 2-Ana Lig varsayılan ve altyapı oyuncu yaşları düzeltildi
 3-Sözleşme, kiralık ve piyasa değeri hataları düzeltildi
@@ -115,7 +115,7 @@ Pes Global 2021 v6.1
 Not: Yeni kariyer açmak zorunlu. Yoksa kariyerlerde hata alacaksınız. Stadyum map id'llerini güncellemezseniz stadyumlar siyah çıkacak.
 _____________________________________________________________________
 
-Pes Global 2021 v6.0
+Mellivora PES 2021 v6.0
 1-Devre arası transferleri yapıldı
 2-2000+ yeni oyuncu eklendi
 3-2000+ miniface eklendi
@@ -135,7 +135,7 @@ Pes Global 2021 v6.0
 Not: Oyundan atma hataları çözüldü. Yeni kariyer açmak zorunlu. Yoksa kariyerlerde hata alacaksınız.
 _____________________________________________________________________
 
-Pes Global 2021 v5.4
+Mellivora PES 2021 v5.4
 1-Oyundan atma hatası çözüldü
 2-Bazı formalar güncelleme yapıldı
 3-Türk hakem formaları güncellendi
@@ -146,14 +146,14 @@ Pes Global 2021 v5.4
 Not: Yeni kariyer açmak zorunlu. Yoksa kariyerlerde hata alacaksınız.
 _____________________________________________________________________
 
-Pes Global 2021 v5.3
+Mellivora PES 2021 v5.3
 1-Al Nassr takımı eklendi (Diğer Asya Takımları)
 2-Bazı forma hataları düzeltildi
 
 Not: Yeni kariyer açmak zorunlu. Yoksa kariyerlerde hata alacaksınız.
 _____________________________________________________________________
 
-Pes Global 2021 v5.2
+Mellivora PES 2021 v5.2
 1-Sahaya giriş müzikleri düzeltildi
 2-Dünya Kupası 2022 modu eklendi
 3-2022-2023 forması olmayan takım formaları güncellendi
@@ -168,7 +168,7 @@ Pes Global 2021 v5.2
 Not: Yeni kariyer açmak zorunlu. Yoksa kariyerlerde hata alacaksınız.
 _____________________________________________________________________
 
-PES Global 2021 v5.1
+Mellivora PES 2021 v5.1
 1-Güncel transferler, diziliş ve forma numaraları
 2-Güncel oyuncu güçleri (efootball 23 den aktarıldı)
 3-Güncel oyuncu piyasa değerleri (tüm takımlar)
@@ -183,17 +183,17 @@ PES Global 2021 v5.1
 12-Birçok miniface eklendi ve güncellendi
 13-Hatalar ve eksiklikler giderildi
 
-NOT: Aynı zamanda Pes Global v5.0 Fix'i içinde barındırmaktadır.
+NOT: Aynı zamanda Mellivora PES v5.0 Fix'i içinde barındırmaktadır.
 ______________________________________________________________________
 
-PES Global 2021 v5.0
+Mellivora PES 2021 v5.0
 1-Yeni oyuncular efootball 2022 den aktarıldı.
 2-Bazı sahte oyuncu kimlikleri gerçekleriyle düzeltildi.
 3-Japonya-Amerika ligi tamamen efootball 2022 den çevrilip aktarıldı.
 4-Rusya ligi yerine Azeri ligi yapıldı (10 takım 22-23 sezonu)
 5-Liglerin yeni sezon düşen-çıkan takımları yapıldı. (kadroları sonra eklenecektir)
 6-Transferlerin %90'ı yapıldı. (forma numaraları şimdilik girilmedi)
-7-Pes Global v5.1 ile tüm kadrolar, transferler ve forma noları düzeltilecek.
+7-Mellivora PES v5.1 ile tüm kadrolar, transferler ve forma noları düzeltilecek.
 8-Bazı takımlara yeni sezon formaları.
 9-Yedek oyuncuların saha kenarında ısınırken giydikleri yelekleri liglere göre otomatik değişecek.
 10-Çift oyuncu ve diğer veritabanı hataları tespit edilip düzeltildi.
@@ -218,12 +218,12 @@ Bazı içerikler sezon başında olduğumuz için belli değil, sonra yani v5.1 
 Ayrıca v5.1 çıktığında kariyerlerinize yeniden başlamanız gerekecektir.
 ______________________________________________________________________
 
-PES Global 2021 v4.3
+Mellivora PES 2021 v4.3
 1-Yama son güncellemeye entegre edilip hatalar düzeltildi. (çökme ve maça girmeme hatası düzeltildi)
 2-Kariyerler için başlangıç (sözleşme hataları için) yılı 2021 yapıldı. (PFG Mağaza Diğer bölümü inceleyin)
 ______________________________________________________________________
 
-PES Global 2021 v4.2
+Mellivora PES 2021 v4.2
 1-Kariyer modlarında 4 klasik oyuncu çıkıyor. Bunlar silindi.
 2-Launher açılırken bazen hata vermesi düzeltildi.
 3-Silinmeyen kurulum dosyaları sildirecek.
@@ -240,7 +240,7 @@ Not: Kariyerlerdeki gerçekçilik açısından v4.2 ile yeni kariyer açmanızı
 Ayrıca hata alma riskiniz azalacaktır. Eski kariyere devam edersiz oyundan atlamalar olabilir.
 ______________________________________________________________________
 
-PES Global 2021 v4.1 - Kurulum Videosu: 
+Mellivora PES 2021 v4.1 - Kurulum Videosu: 
 1-Süper Lig ve TFF 1. Lig'in 10 Nisan 2022 piyasa değerleri ve sözleşme tarihleri
 2-Süper Lig ve TFF 1. Lig'in kiralık oyuncuları (takıma otomatik dönecekler)
 3-Güncel transferler (serbest kalan oyuncular dahil)
@@ -263,7 +263,7 @@ PES Global 2021 v4.1 - Kurulum Videosu:
 20-Tünel çıkış müzikleri kaldırma seçeneği tüm takımlara entegre edildi.
 ______________________________________________________________________
 
-PES Global 2021 v4.0 - Kurulum Videosu: 
+Mellivora PES 2021 v4.0 - Kurulum Videosu: 
 1-Tüm Avrupa Liglerinin 21/22 formaları eklendi.
 2-Kol bantları (badge) güncellendi.
 3-Transferlerin %98'i yapıldı. (4 Nisan)
@@ -277,7 +277,7 @@ PES Global 2021 v4.0 - Kurulum Videosu:
 9-Eski kariyerlerinize devam ederseniz hata alırsınız !!!
 ______________________________________________________________________
 
-Pes Global v3.9.4
+Mellivora PES v3.9.4
 1-Araçlar - ID'ler'den Türk Stadyum Kodları tuş hatası düzeltildi.
 (Stadyum Paket v2.0 daki stadyumları oyunda aktif etmeniz için düzenleme yapıldı)
 2-Stadyumların aktif olmama sorunu düzeltildi.
@@ -287,14 +287,14 @@ Pes Global v3.9.4
 6-Bazı liglerin kol logoları güncellendi.
 ______________________________________________________________________
 
-Pes Global v3.9.3
+Mellivora PES v3.9.3
 1-Oyunun açılmama hatası düzeltildi.
 2-Giriş videosu gözükmeme hatası düzeltildi.
 3-Tezahürat paketini aktif etme sorunu düzeltildi.
 4-L. TCHAOUNA oyuncu gücü ve piyasa değeri düzeltildi.
 ______________________________________________________________________
 
-PES Global v3.9.2
+Mellivora PES v3.9.2
 1-Bazı kramponların gözükmeme hatası düzeltildi.
 2-TRT Spor logosu güncellendi.
 3-Ahmet Çalık klasik oyunculara eklendi.
@@ -317,7 +317,7 @@ PES Global v3.9.2
 20-Taraftar paketi için her stadyuma özel giriş cümlesi eklendi. (ücretli içerik) 
 ______________________________________________________________________
 
-PES Global v3.9.1
+Mellivora PES v3.9.1
 1-Portekiz Ligi forma hataları düzeltildi
 2-Yeni teknik direktör eklendi
 3-Kriptolama daha güvenli hale getirildi
@@ -325,7 +325,7 @@ PES Global v3.9.1
 5-Türkçe Spikerde susma sorunu çözüldü
 ______________________________________________________________________
 
-PES Global v3.9
+Mellivora PES v3.9
 1-Çift oyuncular tespit edilip silindi
 2-ML My Team güncellendi (lanucher ayrıca indirilebilir)
 3-Yeni sezon kramponlar-eldivenler güncellendi
@@ -356,7 +356,7 @@ Chelsea, Leed United, Liverpool, M. City,  M. United, Tottenham,
 West Ham, Monaco, Marseille, PSG, Lyonnais ve Nice
 ______________________________________________________________________
 
-PES Global v3.8
+Mellivora PES v3.8
 1-Çift oyuncular tespit edilip silindi
 2-ML My Team eklendi (lanucher dan seçmeli)
 3-Yeni sezon kramponlar-eldivenler güncellendi
@@ -370,7 +370,7 @@ PES Global v3.8
 11-Aynı zamanda v3.7 Fix sürümünü de içermektedir.
 ______________________________________________________________________
 
-PES Global v3.7
+Mellivora PES v3.7
 1-Yamadaki atma (takılma) hatası düzeltildi
 2-Kariyerlerdeki oyuncuların sezon başı serbest kalma sorunu çözüldü
 3-Süper Lig'in yeni sezon skorbordu eklendi
@@ -393,7 +393,7 @@ PES Global v3.7
 (bu hatanın çözümü için discorddan duyuruya bakın)
 ______________________________________________________________________
 
-PES Global v3.6
+Mellivora PES v3.6
 1-Avrupa liglerinin tamamının güncel transferleri (22 lig).
 Diğer liglerin ve takımların transferleri sonra gelecektir (transfer dönemi kapandığında).
 2-Çoğu ligin düşen çıkan takımları ayarlandı (kalan ligler sonra ayarlanacak).
@@ -423,19 +423,19 @@ Diğer liglerin ve takımların transferleri sonra gelecektir (transfer dönemi 
 26-Kocaelispor stadyumu eklendi.
 ______________________________________________________________________
 
-PES Global v3.5
+Mellivora PES v3.5
 1-DLC 7 uyumluğu geldi.
 2-DLC 7 ile bozulan yama düzeltildi.
 3-DLC 7 ile yama online uyumlu hale getirildi. 
 ______________________________________________________________________
 
-PES Global v3.4
+Mellivora PES v3.4
 1-DLC 6 uyumluğu geldi.
 2-DLC 6 ile bozulan yama düzeltildi.
 3-DLC 6 ile yama online uyumlu hale getirildi. 
 ______________________________________________________________________
 
-PES Global v3.3
+Mellivora PES v3.3
 1-Miniface'i olmayan oyunculara miniface eklendi.
 2-Kadro düzenlemeleri yapıldı.
 3-Sahte kramponlar kaldırıldı.
@@ -443,7 +443,7 @@ PES Global v3.3
 5-Bazı hatalar düzeltildi.
 ______________________________________________________________________
 
-PES Global v3.2
+Mellivora PES v3.2
 1-Launcher hataları düzeltildi.
 2-Oynanış modundaki hata düzeltildi.
 3-Online maçtan atma sorunu çözüldü.
@@ -457,7 +457,7 @@ PES Global v3.2
 11-3 UEFA turnuvasının tv logosu güncellendi.
 ______________________________________________________________________
 
-PES Global v3.1
+Mellivora PES v3.1
 1-Efsane Ol başlatma hatası düzeltildi.
 2-Veri tabanında bazı hataları düzetildi.
 3-Kadro dışı bırakılmalar ve sözleşme fesihleri güncellendi.
@@ -494,7 +494,7 @@ PES Global v3.1
 34-No Regens mod sorun çıkarttığı için devre dışı bırakıldı.
 ______________________________________________________________________
 
-PES Global v3.0
+Mellivora PES v3.0
 1-DLC 5 uyumluğu geldi.
 2-DLC 5 ile bozulan yama düzeltildi.
 3-DLC 5 ile yama online uyumlu hale getirildi. 
