@@ -35,7 +35,7 @@ Mellivora PES 2021 v6.6
 2-Ligler için menü grafikleri güncellendi
 3-Tüm takıların formalarındaki hatalar düzeltildi (Premier Lig, La Liga, Bundesliga v.s.)
 4-Türk takımlarına forma ve sponsor güncellemesi yapıldı
-5-Azeri Ligi için 23-24 sezon forma ve fontları eklendi
+5-Azerbaycan Ligi için 23-24 sezon forma ve fontları eklendi
 
 Not: Sadece v6.5 ile açılan kariyerlere devam edebilirsiniz.
 
@@ -190,7 +190,7 @@ Mellivora PES 2021 v5.0
 1-Yeni oyuncular efootball 2022 den aktarıldı.
 2-Bazı sahte oyuncu kimlikleri gerçekleriyle düzeltildi.
 3-Japonya-Amerika ligi tamamen efootball 2022 den çevrilip aktarıldı.
-4-Rusya ligi yerine Azeri ligi yapıldı (10 takım 22-23 sezonu)
+4-Rusya ligi yerine Azebaycan ligi yapıldı (10 takım 22-23 sezonu)
 5-Liglerin yeni sezon düşen-çıkan takımları yapıldı. (kadroları sonra eklenecektir)
 6-Transferlerin %90'ı yapıldı. (forma numaraları şimdilik girilmedi)
 7-Mellivora PES v5.1 ile tüm kadrolar, transferler ve forma noları düzeltilecek.
@@ -201,7 +201,7 @@ Mellivora PES 2021 v5.0
 12-Kariyerlerde milli takımlardan teklif gelememe sorunu çözüldü.
 13-Bazı modlar güncellendi ve yeni modlar eklendi. (gereksiz modlar kaldırıldı)
 14-Kareografi modu eklendi..
-15-Oyuna Azeri 'Ə'-'ə' karakteri eklendi.
+15-Oyuna Azerbaycan 'Ə'-'ə' karakteri eklendi.
 16-Bazı skorbordan güncellendi.
 17-Tüm skorbordlara Türk TV kanal logoları eklendi.
 18-Bazı reklam panoları güncellendi.
