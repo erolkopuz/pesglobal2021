@@ -12,6 +12,9 @@ Mellivora PES 2021 v6.8
 7-Japonya, Amerika, Arjantin, Şili ve Brezilya 1-2 Ligleri için 2024 sezon takımları
 8-Yeni oyuncular için mini face eklendi
 9-Fenerbahçe gol müziği güncellendi
+10-Türkiye Ligleri için seranomi görselleri yenilendi
+11-Türkiye Ligleri için piyasa değerleri ve sözleşme ve kiralık değerleri girildi
+12-En iyi 500+ oyuncu için piyasa değerleri güncellendi 
 
 Not: Bu sürümde yeni kariyer açmak zorundasınız.
 _____________________________________________________________________
