@@ -15,6 +15,7 @@ Mellivora PES 2021 v6.8
 10-Türkiye Ligleri için seranomi görselleri yenilendi
 11-Türkiye Ligleri için piyasa değerleri ve sözleşme ve kiralık değerleri girildi
 12-En iyi 500+ oyuncu için piyasa değerleri güncellendi 
+13-Japon Ligi için 2024 sezon formaları eklendi
 
 Not: Bu sürümde yeni kariyer açmak zorundasınız.
 _____________________________________________________________________
