@@ -1,72 +1,72 @@
 ﻿
-PES Global 2021 v6.7.0.0
+Mellivora PES 2021 v6.7.0.0
 1-Programların sürümleri değiştirildi.
 
-PES Global 2021 v6.6.0.0
+Mellivora PES 2021 v6.6.0.0
 1-Programların sürümleri değiştirildi.
 2-Gereksiz dosyalar otomatik olarak sildirildi.
 
-PES Global 2021 v6.5.0.0
+Mellivora PES 2021 v6.5.0.0
 1-Programların sürümleri değiştirildi.
 
-PES Global 2021 v6.4.0.0
+Mellivora PES 2021 v6.4.0.0
 1-Programların sürümleri değiştirildi.
 
-PES Global 2021 v6.3.0.0
+Mellivora PES 2021 v6.3.0.0
 1-Programların sürümleri değiştirildi.
 
-PES Global 2021 v6.2.0.0
+Mellivora PES 2021 v6.2.0.0
 1-Programların sürümleri değiştirildi.
 2-Kablolu-kablosuz çoklu giriş hatası düzeltildi.
 
-PES Global 2021 v6.1.0.0
+Mellivora PES 2021 v6.1.0.0
 1-Programların sürümleri değiştirildi.
 2-İnternet bağlantı hatası düzeltildi.
 3-Veritabanı'nı aktar tuşu eklendi.
 4-DpFileList.bin'i aktar tuşu eklendi.
 5-HATA ÇÖZÜM tuşu düzeltildi.
 
-PES Global 2021 v6.0.0.0
+Mellivora PES 2021 v6.0.0.0
 1-Programların sürümleri değiştirildi.
 
-PES Global 2021 v5.4.0.2
+Mellivora PES 2021 v5.4.0.2
 1-Güncel Yüz Paketi tuş (kilitlenme-işaretlenmeme) hatası düzeltildi.
 2-Programların sürümleri değiştirildi.
 
-PES Global 2021 v5.4.
+Mellivora PES 2021 v5.4.
 1-Programların sürümleri değiştirildi.
 2-Hatalı kodlar düzeltildi.
 3-x64 sistemleri için tam uyumlu hale getirildi.
 4-Açılışta hata verme sorunu çözüldü.
 5-Discord oyun bağlantısı eklendi.
 
-PES Global 2021 v5.3.
+Mellivora PES 2021 v5.3.
 1-Programların sürümleri değiştirildi.
 
-PES Global 2021 v5.2.
+Mellivora PES 2021 v5.2.
 1-Programların sürümleri değiştirildi.
 
-PES Global 2021 v5.1.
+Mellivora PES 2021 v5.1.
 1-Programların sürümleri değiştirildi.
 2-Hatalı kodlar düzeltildi.
 
-PES Global 2021 v5.0.
+Mellivora PES 2021 v5.0.
 1-Programların sürümleri değiştirildi.
 2-PFG Mağaza şifre hatırlamama sorunu düzeltildi.
 3-Tasarım değişikliği yapıldı.
 4-Hatalı kodlar düzeltildi.
 
-PES Global 2021 v4.3.
+Mellivora PES 2021 v4.3.
 1-Programların sürümleri değiştirildi.
 
-PES Global 2021 v4.2.
+Mellivora PES 2021 v4.2.
 1-Mod Seçiciye sürükle ve bırak fonksiyonu eklendi.
 2-Sekmeler arası geçiş animasyonu kaldırıldı (hata oluşturuyordu)
 3-Online mod kaldırıldı.
 4-CPY mod eklendi. (şuan aktif değil)
 5-Programların sürümleri değiştirildi.
 
-PES Global 2021 v4.1.
+Mellivora PES 2021 v4.1.
 1-Güncelleme indirme alanı, Store indirme alanı gibi yapıldı.
 2-VPN/DNS kullananırken indirmedeki hata düzeltildi.
 3-Menüdeki tikli içerikler mod seçiciye aktarıldı.
@@ -74,7 +74,7 @@ PES Global 2021 v4.1.
 5-Updater 4.1 için hatalı kodlar düzeltildi.
 6-Store 4.1 için hatalı kodlar ve server bağlantısı düzeltildi.
 
-PES Global 2021 v4.0
+Mellivora PES 2021 v4.0
 1-Sekmeler arası geçiş animasyonu eklendi
 2-Müzik paketi oluşturma alanı eklendi
 3-Saydam pencere dizaynı seçeneği eklendi
@@ -88,23 +88,23 @@ PES Global 2021 v4.0
 11-İndirmelerde % kaç indirdiğinizi gösteren sayaç eklendi
 
 04.02.2022 - 22:00 (Fix 3 çıkış zamanı)
-PES Global 2021 v3.9.4.1
+Mellivora PES 2021 v3.9.4.1
 1-Bazı kodlar düzeltildi.
 2-Mağaza uygulamasında sistem dosya yolu bulunamadı hatası düzeltildi.
 3-Mod seçicideki çopap modellerinin oyunda gözükmeme sorunu çözüldü.
 4-Kriptolama daha güvenli hale getirildi
 (spiker çalışmıyorsa bu fixi indirmeniz gerekli)
 
-PES Global 2021 v3.9.4
+Mellivora PES 2021 v3.9.4
 1-PFG Mağaza yeniden tasarlandı (basit ve sade tasarım)
 2-Dillerdeki bozuk cümleler düzeltildi.
 3-Kodlarda oluşan bazı hatalar düzeltildi.
 
-PES Global 2021 v3.9.3
+Mellivora PES 2021 v3.9.3
 1-Kodlarda oluşan bazı hatalar düzeltildi.
 2-Kriptolama ve şifreleme daha düzgün çalışır hale getirildi.
 
-PES Global 2021 v3.9.2
+Mellivora PES 2021 v3.9.2
 1-PFG Mağaza'da nesneler düzenlendi
 2-Dillerdeki bozuk cümleler düzeltildi.
 3-Yüz Paketi bölümündeki kilitlenme sorunu düzeltildi.
@@ -115,7 +115,7 @@ PES Global 2021 v3.9.2
 8-Launcher ana ekran geç gelme sorunu düzeltildi.
 9-Kripto ve güncelik daha iyi hale getirildi.
 
-PES Global 2021 v3.9.1
+Mellivora PES 2021 v3.9.1
 1-Launcher grafikleri değiştirildi.
 2-Launcher için yeni mavi simge (icon) eklendi.
 3-Yapımcılar bölümü eklendi (sağ tuş menüsünden).
